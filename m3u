@@ -16,4 +16,7 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",hbo2
 https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
+#EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",warner
+https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
+
 
