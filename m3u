@@ -10,6 +10,5 @@ http://190.104.67.42:234/play/a05y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8aLmoA.png",Angel One (DASH)
 https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/youtube.png",NASA en YouTube (abre fuera)
-https://www.youtube.com/watch?v=CKF3t_D9Ta0
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/youtube.png",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
