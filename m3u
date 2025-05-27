@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTM3U
-
 #EXTINF:-1 tvg-id="axn" group-title="Entretenimiento",AXN
 https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 
@@ -15,4 +14,4 @@ http://190.104.67.42:234/play/a05y/index.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
 #EXTINF:-1 tvg-id="pluto-CSI" group-title="eventos",eventos 1
-https://
+https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
