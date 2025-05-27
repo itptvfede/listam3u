@@ -21,6 +21,5 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",warner
 https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Pruebas",Canal de Prueba 
-https://www.youtube.com/embed/CKF3t_D9Ta0
-
+#EXTINF:-1 group-title="noticias",tn 
+https://delivery.cdn.rcs.net.ar/mnp/tn/playlist.m3u8
