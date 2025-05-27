@@ -5,10 +5,10 @@
 https://router.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvWz5rN.png",Big Buck Bunny (TS)
-http://190.104.67.42:234/play/a05y
+http://190.104.67.39:234/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M8aLmoA.png",Angel One (DASH)
-https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8aLmoA.png",PLUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/youtube.png",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
