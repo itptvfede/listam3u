@@ -1,11 +1,5 @@
 #EXTM3U
 
-
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="axn" group-title="Entretenimiento",AXN
 https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
@@ -39,3 +33,9 @@ https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",monitv
 https://tv.arkeo.cl:19360/8134/8134.m3u8
+
+#EXTINF:-1 group-title="noticias",elnueve
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+#EXTINF:-1 group-title="noticias",cronicatv
+https://router.cdn.rcs.net.ar/mnp/cronica/output.mpd
