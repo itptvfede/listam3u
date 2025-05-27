@@ -19,6 +19,14 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",warner
 https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
-#EXTINF:-1 group-title="noticias",tn 
-http://app.tecnomolly.com:8080//live/Rigoverduzco01/TEg6GY58GQfQ/224986.m3u8
+#EXTINF:-1 group-title="eventos1",eventos 1
+http://app.tecnomolly.com:8080/live/Rigoverduzco01/TEg6GY58GQfQ/224986.m3u8
 
+#EXTINF:-1 group-title="noticias",tn
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="yuotube",nacion
+https://www.youtube.com/watch?v=OR9MH16MKrg
+
+#EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",sony
+https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
