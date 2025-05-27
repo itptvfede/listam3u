@@ -11,7 +11,9 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 http://190.104.67.42:234/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="pluto-CSI" group-title="deportes",fox sports 1
-https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",hbo2
 https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+
+
