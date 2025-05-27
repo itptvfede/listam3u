@@ -7,3 +7,6 @@ https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 
 #EXTINF:-1,Canal de Prueba YouTube
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+#EXTINF:-1,Canal de Prueba 
+http://190.104.67.42:234/play/a05y/index.m3u8
