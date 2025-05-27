@@ -10,3 +10,7 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 #EXTINF:-1,Canal de Prueba 
 http://190.104.67.42:234/play/a05y/index.m3u8
+
+#EXTINF:-1,Canal de Prueba  pluto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
