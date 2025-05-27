@@ -20,5 +20,5 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="noticias",tn 
-http://live.fuxxion.club:8080//live/88LauraRuetalo/54NX9ESmQu/7945.ts
+http://live.fuxxion.club:8080//live/88LauraRuetalo/54NX9ESmQu/7945.m3u8
 
