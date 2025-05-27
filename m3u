@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UePbdph.png",NASA TV (HLS)
 https://router.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
