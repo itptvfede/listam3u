@@ -1,10 +1,11 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UePbdph.png",NASA TV (HLS)
 https://router.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvWz5rN.png",Big Buck Bunny (TS)
-http://190.104.67.42:234/play/a05y/index.m3u8
+http://190.104.67.42:234/play/a05y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8aLmoA.png",Angel One (DASH)
 https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd
