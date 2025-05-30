@@ -1,49 +1,76 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-id="axn" group-title="Entretenimiento",AXN
+
+#EXTINF:-1 ,DISCOVERY
+https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+
+#EXTINF:-1 ,AXN
 https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 
-#EXTINF:-1 group-title="yuotube",tn
+#EXTINF:-1 ,YUOTUBE TN
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
-#EXTINF:-1 group-title="kids",tooncast 
+#EXTINF:-1 ,TOONCAST
 https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",space
+#EXTINF:-1 ,SPACE
 https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",hbo2
+#EXTINF:-1 ,HBO2
 https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
-#EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",warner
+#EXTINF:-1 ,WARNER
 https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
-#EXTINF:-1 group-title="eventos1",eventos 1
+#EXTINF:-1 ,EVENTOS 1
 http://ak-47scan.dyndns.tv:25461//live/4255085982/ZztVUe8tgtVu/329686.m3u8
 
-#EXTINF:-1 group-title="noticias",tn
+#EXTINF:-1 ,EVENTOS 2
+http://
+
+#EXTINF:-1 ,TN
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
-#EXTINF:-1 group-title="noticias",trece
+#EXTINF:-1 ,ELTRECE
 https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="yuotube",nacion
+#EXTINF:-1 ,YUOTUBE NACION
 https://www.youtube.com/watch?v=OR9MH16MKrg
 
-#EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",sony
+#EXTINF:-1 ,SONY
 https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",monitv
+#EXTINF:-1 ,MONITV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
-#EXTINF:-1 group-title="noticias",elnueve
-https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-
-#EXTINF:-1 group-title="noticias",cronicatv
+#EXTINF:-1 ,CRONICATV
 https://router.cdn.rcs.net.ar/mnp/cronica/output.mpd
 
+#EXTINF:-1 ,IP
+https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 
-#EXTINF:-1 group-title="eventos1",eventos 2
-http://ak-47scan.dyndns.tv:25461//live/4255085982/ZztVUe8tgtVu/329686.m3u8
+#EXTINF:-1 ,C5N
+https://router.cdn.rcs.net.ar/mnp/c5n/output.mpd
+
+#EXTINF:-1 ,AMERICATV
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
