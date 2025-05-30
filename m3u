@@ -3,65 +3,22 @@
 
 
 
-#EXTINF:-1 ,DISCOVERY
-https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+# Canal con DRM ClearKey (.mpd)
+#EXTINF:-1 tvg-logo="https://logo.png" type="CLEARKEY" drm="https://dl.dropbox.com/scl/fi/6p3am132pvuvaxg17hu97/hbofamily.json?rlkey=93fj78otn63q25wunfc1x2gn7&st=hm3fefgt&dl=0", ESPN 5
+https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd 
 
-#EXTINF:-1 ,AXN
-https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
 
-#EXTINF:-1 ,YUOTUBE TN
-https://www.youtube.com/watch?v=cb12KmMMDJA
-
-#EXTINF:-1 ,TOONCAST
-https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-
-#EXTINF:-1 ,SPACE
-https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-
-#EXTINF:-1 ,HBO2
-https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
-
-#EXTINF:-1 ,WARNER
-https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
-
-#EXTINF:-1 ,EVENTOS 1
+# Canal HLS normal (.m3u8)
+#EXTINF:-1 tvg-logo="https://logo2.png", Telefe HD
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 ,EVENTOS 2
-http://
-
-#EXTINF:-1 ,TN
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
-
-#EXTINF:-1 ,ELTRECE
-https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
-
-
-#EXTINF:-1 ,YUOTUBE NACION
-https://www.youtube.com/watch?v=OR9MH16MKrg
-
-#EXTINF:-1 ,SONY
-https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
-
-#EXTINF:-1 ,MONITV
-https://tv.arkeo.cl:19360/8134/8134.m3u8
-
-#EXTINF:-1 ,CRONICATV
-https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
-
-#EXTINF:-1 ,IP
-https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd
-
-#EXTINF:-1 ,C5N
-https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
-
-#EXTINF:-1 ,AMERICATV
-https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
-
-#EXTINF:-1 ,NEOTV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 ,PRUEBA 6
+# Canal TS directo
+#EXTINF:-1 tvg-logo="https://logo3.png", Canal TS
 http://190.104.67.87:234/play/a08a/index.m3u8
 
-#EXTINF:-1 ,PRUEBA 
+# Canal Pluto TV
+#EXTINF:-1 tvg-logo="https://logo4.png", Pluto Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&appVersion=1.0
+
+
+
