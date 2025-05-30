@@ -9,8 +9,8 @@ https://www.youtube.com/watch?v=cb12KmMMDJA
 #EXTINF:-1 group-title="kids",tooncast 
 https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pluto-CSI" group-title="deportes",fox sports 1
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",space
+https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pluto-CSI" group-title="cine",hbo2
 https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
@@ -23,6 +23,11 @@ http://ak-47scan.dyndns.tv:25461//live/4255085982/ZztVUe8tgtVu/329686.m3u8
 
 #EXTINF:-1 group-title="noticias",tn
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="noticias",trece
+https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="yuotube",nacion
 https://www.youtube.com/watch?v=OR9MH16MKrg
