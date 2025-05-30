@@ -3,22 +3,8 @@
 
 
 
-# Canal con DRM ClearKey (.mpd)
-#EXTINF:-1 tvg-logo="https://logo.png" type="CLEARKEY" drm="https://dl.dropbox.com/scl/fi/6p3am132pvuvaxg17hu97/hbofamily.json?rlkey=93fj78otn63q25wunfc1x2gn7&st=hm3fefgt&dl=0", ESPN 5
-https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd 
 
 
-# Canal HLS normal (.m3u8)
-#EXTINF:-1 tvg-logo="https://logo2.png", Telefe HD
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
-# Canal TS directo
-#EXTINF:-1 tvg-logo="https://logo3.png", Canal TS
-http://190.104.67.87:234/play/a08a/index.m3u8
-
-# Canal Pluto TV
-#EXTINF:-1 tvg-logo="https://logo4.png", Pluto Series
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&appVersion=1.0
-
-
+#EXTINF:-1 tvg-logo="https://logo.com/hbofamily.png" type="CLEARKEY" drm="https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db", HBO Family
+https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd
 
