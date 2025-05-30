@@ -2,9 +2,8 @@
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logo.png" type="CLEARKEY" drm="https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0", ESPN PREMIUM
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
 
-
-
-#EXTINF:-1 tvg-logo="https://logo.com/hbofamily.png" type="CLEARKEY" drm="https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db", HBO Family
-https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd
 
