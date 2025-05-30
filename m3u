@@ -44,17 +44,16 @@ https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 #EXTINF:-1 ,CRONICATV
-https://router.cdn.rcs.net.ar/mnp/cronica/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 
 #EXTINF:-1 ,IP
-https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 #EXTINF:-1 ,C5N
-https://router.cdn.rcs.net.ar/mnp/c5n/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 #EXTINF:-1 ,AMERICATV
-https://router.cdn.rcs.net.ar/mnp/america/output.mpd
-
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 
 
 
