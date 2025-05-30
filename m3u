@@ -61,11 +61,5 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 ,PRUEBA 6
 http://190.104.67.87:234/play/a08a/index.m3u8
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 ,PRUEBA 
+http://190.104.67.87:234/play/a08a/index.m3u8
