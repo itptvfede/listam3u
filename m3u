@@ -1,10 +1,4 @@
 #EXTM3U
-
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="axn" group-title="Entretenimiento",AXN
 https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
@@ -44,3 +38,7 @@ https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1 group-title="noticias",cronicatv
 https://router.cdn.rcs.net.ar/mnp/cronica/output.mpd
+
+
+#EXTINF:-1 group-title="eventos1",eventos 2
+http://ak-47scan.dyndns.tv:25461//live/4255085982/ZztVUe8tgtVu/329686.m3u8
