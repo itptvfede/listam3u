@@ -2,8 +2,9 @@
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://logo.png" type="CLEARKEY" drm="https://dl.dropbox.com/scl/fi/96rqr70ljuva1eift5325/espnp.json?rlkey=xyyylbuh3bl8jqamvqi10ytl6&dl=0", ESPN PREMIUM
-https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
 
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logo.png" type="CLEARKEY" drm="https://dl.dropbox.com/scl/fi/4gwhrzf22w2401dfix2kh/premiun.json?rlkey=nzp11gn43womr013ppnr6wxq0&st=ahppdvk9&dl=0", Fox Sports Premium
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports
 
