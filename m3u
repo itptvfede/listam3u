@@ -58,10 +58,8 @@ https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1 ,NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 ,TELEFE
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1748705894~acl=%2f*~data=hdntl~hmac=2b7107f91c09abd755280390720a03a2c5a507380cd70a7db391eaa4d09c8272/master-mtlf2.m3u8
-
-
+#EXTINF:-1 ,PRUEBA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
 
