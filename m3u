@@ -2,6 +2,7 @@
 
 
 
+
 #EXTINF:-1 ,DISCOVERY
 https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 
@@ -24,7 +25,7 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
 #EXTINF:-1 ,EVENTOS 1
-http://ak-47scan.dyndns.tv:25461//live/4255085982/ZztVUe8tgtVu/329686.m3u8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 ,EVENTOS 2
 http://
@@ -64,4 +65,3 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://190.104.67.87:234/play/a08a/index.m3u8
 
 #EXTINF:-1 ,PRUEBA 
-http://190.104.67.87:234/play/a08a/index.m3u8
