@@ -21,7 +21,7 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="eventos1",eventos 1
-http://45.5.151.61:8000/play/a054/index.m3u8
+http://tv.zapping.life:8080/henrylazo1/di9CYHH1YC/7939
 
 #EXTINF:-1 group-title="noticias",tn
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
