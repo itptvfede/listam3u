@@ -55,6 +55,9 @@ https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1 ,AMERICATV
 https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 
+#EXTINF:-1 ,NEOTV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
 
 
 
