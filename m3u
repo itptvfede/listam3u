@@ -1,3 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://logo.png" type="CLEARKEY" drm="https://dl.dropbox.com/scl/fi/4gwhrzf22w2401dfix2kh/premiun.json?rlkey=nzp11gn43womr013ppnr6wxq0&st=ahppdvk9&dl=0",Fox Sports Premium
+#EXTINF:-1 tvg-id="hbo_family" tvg-name="HBO Family" tvg-logo="https://example.com/logos/hbo_family.png" group-title="Premium",HBO Family
+#EXTDRM:TYPE=CLEARKEY,URI=https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0
+https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
