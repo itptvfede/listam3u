@@ -12,8 +12,8 @@ https://example.com/history.m3u8
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_icon.svg" group-title="TDT",Canal de prueba
-https://mi-servidor.com/canal.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_icon.svg" group-title="TDT",SONY
+https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Películas",TN
