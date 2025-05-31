@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="hbo_family" tvg-name="HBO Family" tvg-logo="https://example.com/logos/hbo_family.png" group-title="tnt
+#EXTINF:-1 tvg-id="hbo_family" tvg-name="TNT
 https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
+
+#EXTINF:-1 tvg-id="hbo_family" tvg-name="YOU TUBE 
+https://www.youtube.com/embed/CKF3t_D9Ta0
