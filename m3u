@@ -1,5 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="hbo_family" tvg-name="HBO Family" tvg-logo="https://example.com/logos/hbo_family.png" group-title="Premium",HBO Family
-#EXTDRM:TYPE=CLEARKEY,URI=https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0
-https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
+#EXTINF:-1 tvg-id="hbo_family" tvg-name="HBO Family" tvg-logo="https://example.com/logos/hbo_family.png" group-title="tnt
+https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
