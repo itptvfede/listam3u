@@ -49,8 +49,14 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Películas",LOS SIMPSONS
-http://magmaplayer.com/stream/m3u8/AwD1KmLmAI8lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/635.m3u8
+
+#EXTINF:-1 tvg-id="TodoNoticias" tvg-name="Todo Noticias" group-title="Noticias",Todo Noticias P
+#EXTVLCOPT:input-slave=drm
+#EXTDRM:TYPE=CLEARKEY,URI=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4
+https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+
+
+
 
 
 
