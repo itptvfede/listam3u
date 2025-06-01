@@ -52,9 +52,8 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 
 
-#EXTINF:-1,Todo Noticias 7(DRM)
-https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd|type=CLEARKEY&drm=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21
-
+#EXTINF:-1,Todo Noticias 77(DRM)
+https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd|type=CLEARKEY&drm=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db
 
 
 
