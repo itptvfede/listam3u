@@ -38,6 +38,12 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Películas",BIG CHANNEL
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+
+
+
+
 
 
 
