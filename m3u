@@ -3,6 +3,9 @@
 
 
 
+#EXTINF:-1 tvg-id="tyc" tvg-name="TyC Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TyC_Sports_logo_2016.svg/512px-TyC_Sports_logo_2016.svg.png" group-title="Deportes",TyC Internacional
+https://canalesonline.netlify.app/servidores/cvatt.html?get=VHlDX0ludGVybmFjaW9uYWw
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Películas",TNT
 https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
