@@ -2,17 +2,10 @@
 
 
 
-
-#EXTINF:-1 tvg-id="tyc" tvg-name="TyC Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TyC_Sports_logo_2016.svg/512px-TyC_Sports_logo_2016.svg.png" group-title="Deportes",TyC Internacional
-https://canalesonline.netlify.app/servidores/cvatt.html?get=VHlDX0ludGVybmFjaW9uYWw
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Películas",TNT
 https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/History_Channel_logo.png" group-title="Documentales",History Channel
-https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzQ5MDgwNDYwIiwic2lwIjoiMjAxLjIxOS4xNjguMTcxIiwicGF0aCI6Ii9saXZlL2M3ZWRzL1RvZG9Ob3RpY2lhcy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMWRiODAzNDUyMjQ2MjM0NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.KS_FL6T4_Fq53PyHSHaMk2Oxxr_A6jVxBj4NpczfpXohZMPCd1R5GM-lwLcHVjyMvlyPSdCDqa9xn3YpoborWg==/live/c4eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias-avc1_4999936=1-scale=30000-p=317972945616133-9865117411924.mp4
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRq_7KdpzV-lr1cQnN9.png" group-title="YouTube",Canal de YouTube
@@ -35,7 +28,7 @@ https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Películas",CINEMAX
-https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+http://smt-edge04.sensa.com.ar/live/eds/FX/live_dash_cld/FX-avc1_1200000=7-scale=30000-9867426522306.mp4
 
 
 
@@ -55,8 +48,6 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 
 
-#EXTINF:-1,Todo Noticias 77(DRM)
-https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd|type=CLEARKEY&drm=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db
 
 
 
