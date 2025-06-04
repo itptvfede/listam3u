@@ -28,9 +28,7 @@ https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Películas",CINEMAX
-http://plpro.org/stream/secure/ZKjkAwy8ZwNkYwVkBF4kAwthZGpksQR3AQt5BQH0AwZmZQq8Z2H2A2Z1ZJH3AwIvZGWuBUjjsQO8ETSfqzyeYmVhZF4jVPuZnJ51rQftIGftDJ5xpz9cMPNkAQftH00gDGN2AH0tDaIcoTDiIINkDF4lZmRjZQHhZQN3XD/169.m3u8
-
-
+http://192.141.99.87:8000/play/a0pw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Películas",HBO2
 https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
