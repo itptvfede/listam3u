@@ -21,8 +21,8 @@ http://190.104.67.47:234/play/a08k/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/TNT_Logo.svg",`PLUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
 
