@@ -3,7 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/TV_icon.png",Canal de Prueba 
-http://tochitv2.club/pablo-sala/30569481/230525
+http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/YouTube_logo_2017.svg",YouTube en Vivo
 24/7,http://tv.zapping.life:8080/live/tvpro2021dd/7NSR7IICtN/95647.m3u8
