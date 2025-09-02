@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes", ESPN
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes", TELEFE
+https://tvlivre.online/html/fl/?get=VGVsZWZlSEQ=
 
 #EXTINF:-1 tvg-id="foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_Sports_logo.png" group-title="Deportes", FOX Sports
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
