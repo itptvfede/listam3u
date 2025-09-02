@@ -1,13 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes", TELEFE
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Telefe_logo_2018.svg" group-title="Nacionales", Telefe
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="canal-cvatt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/???.png" group-title="Especial", CVATTV
 https://bestleague.one/cvatt.html?get=QW1lcmljYVRW
 
-#EXTINF:-1 tvg-id="foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_Sports_logo.png" group-title="Deportes", FOX Sports
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TNT_Logo.png" group-title="Cine", TNT
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 tvg-id="history" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/History_Logo.png" group-title="Documentales", History
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes", ESPN
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
