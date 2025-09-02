@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1,TNT
-https://tvlivre.online/pc/ext/?r=https%3A%2F%2Fsupercanal-cdn2.tbxdrm.com%2Fespnpremium%2Fmanifest.mpd%3Fck%3DeyI5NGM5ZTRkMjJiN2Y1OTAwODEwMDU0MDM5NWFiNjA3MSI6ImM4NTY3OTY2N2UyNDdkNGNmOWFlMDdjZGQ1YjY0NjU1IiwKIjgwZGJiNzcxNGViNDViMzU4OGQzYzM1MDRmYzU0NDA3IjoiOGFhZjc3ZWQzNzRlMDEyODNjNWY5ZWVkNWZjMGIwZTUiLAoiZDY5YWI4ZmM3ODRmNTEzNjg2YTEyMWI2OWYwODViNWMiOiI5NDVjZmU2MWU0YzJjN2JjNDkwZDZjNzUzZWRjYTU1NyJ9%26%26headers%3DeyJvcmlnaW4iOiJodHRwczovL3d3dy5taW8udHYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubWlvLnR2LyJ9
-#EXTINF:-1,Canal Deportivo 2
-https://bestleague.one/mpdk/?get=...
-#EXTINF:-1,Canal Deportivo 3
-https://anotherlink.com/stream
+
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes", ESPN
+https://example.com/espn.m3u8
+
+#EXTINF:-1 tvg-id="foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_Sports_logo.png" group-title="Deportes", FOX Sports
+https://example.com/foxsports.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TNT_Logo.png" group-title="Cine", TNT
+https://example.com/tnt.m3u8
+
+#EXTINF:-1 tvg-id="history" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/History_Logo.png" group-title="Documentales", History
+https://example.com/history.m3u8
