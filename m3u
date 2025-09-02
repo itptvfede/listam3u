@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes", ESPN
-https://example.com/espn.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_Sports_logo.png" group-title="Deportes", FOX Sports
-https://example.com/foxsports.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/TNT_Logo.png" group-title="Cine", TNT
-https://example.com/tnt.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/History_Logo.png" group-title="Documentales", History
-https://example.com/history.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
