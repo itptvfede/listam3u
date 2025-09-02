@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Telefe_logo_2018.svg" group-title="Nacionales", Telefe
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Telefe_logo_2018.svg" group-title="Nacionales", CINE
+http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 
 #EXTINF:-1 tvg-id="canal-cvatt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/???.png" group-title="Especial", CVATTV
 https://bestleague.one/cvatt.html?get=QW1lcmljYVRW
