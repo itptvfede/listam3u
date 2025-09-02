@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Telefe_logo_2018.svg" group-title="Nacionales", CINE
 http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 
@@ -13,3 +12,5 @@ http://190.104.67.67:234/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes", CINE +
 https://tv.arkeo.cl:19360/8128/8128.m3u8
 
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
