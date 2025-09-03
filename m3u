@@ -9,10 +9,10 @@ https://bestleague.one/cvatt.html?get=QW1lcmljYVRW
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/C536DMV7/TYC.png" group-title="Deportes", TYC OP1
 http://190.104.67.67:234/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/d4f1x8rt/mascine.png" group-title="Deportes", CINE +
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/G4STpwNj/CINE.png" group-title="Deportes", CINE +
 https://tv.arkeo.cl:19360/8128/8128.m3u8
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/sDJrcwk/telefe.jpg" group-title="Deportes", TELEFE
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/d459GFzp/TELEFE.jpg" group-title="Deportes", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/tpC0b0qv/MONITV.jpg" group-title="Deportes", MONITV
