@@ -16,6 +16,9 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", C5N TETS
 http://201.217.246.166:8000/play/a05v/index.m3u8
 
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", HBO FAMILY TETS
+http://181.188.216.5:18000/play/a0lr/index.m3u8
+
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", TETS2
 http://160.20.165.246:8000/play/a01f/index.m3u8
 
