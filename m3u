@@ -19,7 +19,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/23C7yH8b/NICKCLASICO.jpg" group-title="Deportes", NICK CLASICO
-https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/G4STpwNj/CINE.png" group-title="Deportes", TN
 https://bestleague.one/cvatt.html?get=VG9kb05vdGljaWFz
