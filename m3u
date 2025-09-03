@@ -14,7 +14,7 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", IP TETS2
-http://45.5.151.151:8000/play/a0q7/index.m3u8
+http://201.217.246.166:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="canal-cvatt" tvg-logo="https://i.ibb.co/27Qy2wZT/AMERICATV.jpg" group-title="Especial", AMERICA TV
 https://bestleague.one/cvatt.html?get=QW1lcmljYVRW
