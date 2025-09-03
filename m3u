@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Telefe_logo_2018.svg" group-title="Nacionales", CINE
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", EVENTOS
 http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 
-#EXTINF:-1 tvg-id="canal-cvatt" tvg-logo="https://i.ibb.co/wFLpL3YM/america.jpg" group-title="Especial", AMERICA TV
+#EXTINF:-1 tvg-id="canal-cvatt" tvg-logo="https://i.ibb.co/27Qy2wZT/AMERICATV.jpg" group-title="Especial", AMERICA TV
 https://bestleague.one/cvatt.html?get=QW1lcmljYVRW
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/C536DMV7/TYC.png" group-title="Deportes", TYC OP1
