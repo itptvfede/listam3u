@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", EVENTOS
 http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", PRUEBA TETS
+http://593zona.live:8080/live/56972196390playtv/Juanito1234/822876.m3u8
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", TN TETS
 http://190.123.90.146:8000/play/a032/index.m3u8
