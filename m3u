@@ -9,7 +9,7 @@ http://tvpremiund.ddns.me:33200/live/veronicacasanova/FATR2KGg/31721.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/fYrTLwMv/TN.png" group-title="Nacionales", TN OP1
 http://190.123.90.146:8000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", ELTRECE TETS
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/jZMfx16c/ELTRECE.jpg" group-title="Nacionales", ELTRECE OP1
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/Cp0K15G9/NG-FEDERAL.jpg" group-title="Nacionales", NG FEDERAL
