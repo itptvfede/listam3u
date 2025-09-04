@@ -6,17 +6,17 @@ http://181.189.244.253:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", PRUEBA TETS
 http://tvpremiund.ddns.me:33200/live/veronicacasanova/FATR2KGg/31721.m3u8
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", TN TETS
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/fYrTLwMv/TN.png" group-title="Nacionales", TN OP1
 http://190.123.90.146:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", ELTRECE TETS
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", IP TETS
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/Cp0K15G9/NG-FEDERAL.jpg" group-title="Nacionales", NG FEDERAL
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", C5N TETS
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/pjddhBmR/c5n.jpg" group-title="Nacionales", C5N 
 http://201.217.246.166:8000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", ESPN TETS
@@ -44,5 +44,5 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/23C7yH8b/NICKCLASICO.jpg" group-title="Deportes", NICK CLASICO
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/G4STpwNj/CINE.png" group-title="Deportes", TN
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/fYrTLwMv/TN.png" group-title="Deportes", TN OP2
 https://bestleague.one/cvatt.html?get=VG9kb05vdGljaWFz
