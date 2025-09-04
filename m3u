@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", EVENTOS
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS
 http://181.189.244.253:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/0ycMV1Gh/EVENTOS.png" group-title="Nacionales", PRUEBA TETS
