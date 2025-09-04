@@ -27,11 +27,14 @@ http://201.217.246.166:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/CKrTSH2H/unnamed-9.png" group-title="Nacionales", TNT SPORTS OP1
 http://104.238.205.28:8989/278777_.m3u8
 
-#EXTINF:-1 tvg-id="canal-cvatt" tvg-logo="https://i.ibb.co/27Qy2wZT/AMERICATV.jpg" group-title="Especial", AMERICA TV
+#EXTINF:-1 tvg-id="canal-cvatt" tvg-logo="https://i.ibb.co/DfN28kSy/unnamed-11.png" group-title="Especial", AMERICA TV
 https://bestleague.one/cvatt.html?get=QW1lcmljYVRW
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/21BMFgj8/descarga.jpg" group-title="Deportes", TYC OP1
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/svHtnLY9/unnamed.png" group-title="Deportes", TYC OP1
 http://190.104.67.67:234/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/svHtnLY9/unnamed.png" group-title="Deportes", TYC OP2
+https://bestleague.one/mpdk/?get=aHR0cHM6Ly9jc2MtYXhzLWVkZ2UwMS5zZW5zYS5jb20uYXIvbGl2ZS9lZHMvVFlDU3BvcnRzL2xpdmVfZGFzaF9jbGQvVFlDU3BvcnRzLm1wZA==&key=NTNkMGNmNmMxZDQ5YzE2ZjUxODBmODZlMTg3MGIwMGY=&key2=N2ViNjc0M2I1ZjQ0YjUyYmEyN2M4ODIyOWM4YzdhZTI=
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/G4STpwNj/CINE.png" group-title="Deportes", CINE +
 https://tv.arkeo.cl:19360/8128/8128.m3u8
@@ -52,10 +55,10 @@ https://bestleague.one/cvatt.html?get=VG9kb05vdGljaWFz
 https://tvlivre.online/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE
 
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/fYrTLwMv/TN.png" group-title="Deportes", TYC OP2
-https://bestleague.one/mpdk/?get=aHR0cHM6Ly9jc2MtYXhzLWVkZ2UwMS5zZW5zYS5jb20uYXIvbGl2ZS9lZHMvVFlDU3BvcnRzL2xpdmVfZGFzaF9jbGQvVFlDU3BvcnRzLm1wZA==&key=NTNkMGNmNmMxZDQ5YzE2ZjUxODBmODZlMTg3MGIwMGY=&key2=N2ViNjc0M2I1ZjQ0YjUyYmEyN2M4ODIyOWM4YzdhZTI=
-
-
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/fYrTLwMv/TN.png" group-title="Deportes", CANAL 26 NOTICIAS
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/mCwC43yk/unnamed-14.png" group-title="Deportes", CANAL 26 NOTICIAS
 http://45.5.151.62:8000/play/a028/index.m3u8
+
+
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/mCwC43yk/unnamed-14.png" group-title="Deportes", CANAL 26 NOTICIAS OP2
+https://tvlivre.online/html/fl/?get=MjZfVFZfSEQ
 
