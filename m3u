@@ -33,7 +33,7 @@ http://
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/ZRmMfdWy/CANAL26.png" group-title="Deportes", OP1 CANAL 26 NOTICIAS
 https://
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/gbbj926m/ELNUEVEpng.png" group-title="Deportes", ELNUEVE
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/gbbj926m/ELNUEVEpng.png" group-title="Deportes", OP ELNUEVE
 http://190.104.67.47:234/play/a08k/index.m3u8
 
 
