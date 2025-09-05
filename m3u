@@ -12,10 +12,10 @@ http://190.123.90.146:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/xbMS3SG/unnamed-1.png" group-title="Nacionales", OP2 LA NACION 
 http://
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/cX1hsF4M/unnamed-4.png" group-title="Nacionales", OP1 TN
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/ymKzZ1t9/TN.png" group-title="Nacionales", OP1 TN
 http://190.123.90.146:8000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/cX1hsF4M/unnamed-4.png" group-title="Deportes", OP2 TN 
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/ymKzZ1t9/TN.png" group-title="Deportes", OP2 TN 
 http://tochitv2.club/live/pablo-sala/30569481/482317.m3u8
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/nM2FTKZB/CRONICATV.png" group-title="Deportes", OP1 CRONICATV
