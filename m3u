@@ -30,7 +30,8 @@ http://201.217.246.166:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/bgt8PjS6/C5N.png" group-title="Nacionales", OP2
 http://
 
-
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/ZRmMfdWy/CANAL26.png" group-title="Deportes", OP1 CANAL 26 NOTICIAS
+https://
 
 
 
