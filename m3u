@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS 
-http://190.123.90.146:8000/play/a006/36091296.m3u8
+http://190.123.90.146:8000/play/a006/index.m3u8
 
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS 2 
