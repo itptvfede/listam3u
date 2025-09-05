@@ -64,5 +64,12 @@ http://190.104.67.67:234/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/4RB30wGP/unnamed.png" group-title="Deportes", OP2 TYC
 http://tochitv2.club/live/pablo-sala/30569481/124.m3u8
 
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/N2vhL90p/unnamed-5.png" group-title="Deportes", MONITV
+https://tv.arkeo.cl:19360/8134/8134.m3u8
+
+
+
+
+
 
 
