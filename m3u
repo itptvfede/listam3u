@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png" group-title="Nacionales", EVENTOS 
 http://
 
@@ -51,14 +52,8 @@ https://
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/KcXTY93Z/ELCHAVO.png" group-title="Nacionales", EL CHAVO 24/7
 https://
 
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/hnsgy9C/unnamed-8.png" group-title="Nacionales", OP1 ESPN PREMIUM
+http://
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/hnsgy9C/unnamed-8.png" group-title="Nacionales", OP2 ESPN PREMIUM
+http://tochitv2.club/live/pablo-sala/30569481/116009.m3u8
