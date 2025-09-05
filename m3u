@@ -1,12 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS arg vs ven
-http://tochitv2.club/live/pablo-sala/30569481/124.m3u8
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS 
+http://
 
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS 2 Arg vs ven
-http://tochitv2.club/live/pablo-sala/30569481/625.m3u8
-
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS 2 
+http://
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS 3
 http://tochitv2.club/live/pablo-sala/30569481/116009.m3u8
@@ -32,11 +31,11 @@ http://104.238.205.28:8989/278777_.m3u8
 #EXTINF:-1 tvg-id="canal-cvatt" tvg-logo="https://i.ibb.co/DfN28kSy/unnamed-11.png" group-title="Especial", AMERICA TV
 https://bestleague.one/cvatt.html?get=QW1lcmljYVRW
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/svHtnLY9/unnamed.png" group-title="Deportes", TYC OP1
+#EXTINF:-1 tvg-id="espn" tvg-logo=" https://i.ibb.co/904pLcy/Add-Text-09-04-10-23-21.png" group-title="Deportes", TYC OP1
 http://190.104.67.67:234/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/svHtnLY9/unnamed.png" group-title="Deportes", TYC OP2
-https://bestleague.one/mpdk/?get=aHR0cHM6Ly9jc2MtYXhzLWVkZ2UwMS5zZW5zYS5jb20uYXIvbGl2ZS9lZHMvVFlDU3BvcnRzL2xpdmVfZGFzaF9jbGQvVFlDU3BvcnRzLm1wZA==&key=NTNkMGNmNmMxZDQ5YzE2ZjUxODBmODZlMTg3MGIwMGY=&key2=N2ViNjc0M2I1ZjQ0YjUyYmEyN2M4ODIyOWM4YzdhZTI=
+#EXTINF:-1 tvg-id="espn" tvg-logo=" https://i.ibb.co/904pLcy/Add-Text-09-04-10-23-21.png" group-title="Deportes", TYC OP2
+http://tochitv2.club/live/pablo-sala/30569481/124.m3u8
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/G4STpwNj/CINE.png" group-title="Deportes", CINE +
 https://tv.arkeo.cl:19360/8128/8128.m3u8
