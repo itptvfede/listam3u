@@ -24,19 +24,20 @@ http://190.123.90.146:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/nM2FTKZB/CRONICATV.png" group-title="Deportes", OP2 CRONICATV
 http://
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/bgt8PjS6/C5N.png" group-title="Nacionales", OP1
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/bgt8PjS6/C5N.png" group-title="Nacionales", OP1 C5N
 http://201.217.246.166:8000/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/bgt8PjS6/C5N.png" group-title="Nacionales", OP2
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/bgt8PjS6/C5N.png" group-title="Nacionales", OP2 C5N
 http://
 
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/ZRmMfdWy/CANAL26.png" group-title="Deportes", OP1 CANAL 26 NOTICIAS
 https://
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/gbbj926m/ELNUEVEpng.png" group-title="Deportes", OP ELNUEVE
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/gbbj926m/ELNUEVEpng.png" group-title="Deportes", OP1 ELNUEVE
 http://190.104.67.47:234/play/a08k/index.m3u8
 
-
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.ibb.co/n86DwHSt/unnamed-12.png" group-title="Deportes", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 
