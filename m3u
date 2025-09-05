@@ -46,8 +46,8 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/cS6s37LP/unnamed-13.png" group-title="Nacionales",OP2 ELTRECE 
 https://
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/5hc0qfMQ/SIMPSONS.png" group-title="Nacionales", LOS SIMPSONS 2477
-https://
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/5hc0qfMQ/SIMPSONS.png" group-title="Nacionales", LOS SIMPSONS 24/7
+http://tochitv2.club/live/pablo-sala/30569481/494774.m3u8
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/KcXTY93Z/ELCHAVO.png" group-title="Nacionales", EL CHAVO 24/7
 https://
