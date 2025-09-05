@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS 
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278779/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+http://190.123.90.146:8000/play/a006/36091296.m3u8
 
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/kVwjX8gk/unnamed-2.png" group-title="Nacionales", EVENTOS 2 
