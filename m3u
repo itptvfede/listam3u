@@ -5,7 +5,7 @@
 http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png" group-title="Nacionales", EVENTOS 2
-http://
+http://181.188.216.5:18000/play/a0fe/index.m3u8
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/xbMS3SG/unnamed-1.png" group-title="Nacionales", OP1 LA NACION 
 http://190.123.90.146:8000/play/a006/index.m3u8
