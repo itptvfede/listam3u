@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América" tvg-logo="https://i.ibb.co/DD1GRsP/america.webp" group-title="Argentina" type="channel",América Argentina
+https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
+
+
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png" group-title="Nacionales", EVENTOS 
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
