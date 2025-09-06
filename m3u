@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="boca-river.png" start="2025-09-05 20:00" end="2025-09-05 22:30", Boca vs River
+http://servidor.com/partido.m3u8
+
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png" group-title="Nacionales", EVENTOS 
 http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
