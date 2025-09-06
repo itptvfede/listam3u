@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png" group-title="Nacionales", EVENTOS 
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
@@ -46,8 +45,9 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/cS6s37LP/unnamed-13.png" group-title="Nacionales",OP1 ELTRECE 
 ttps://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/cS6s37LP/unnamed-13.png" group-title="Nacionales",OP2 ELTRECE 
-https://
+
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/5hc0qfMQ/SIMPSONS.png" group-title="Nacionales", LOS SIMPSONS 24/7
 http://tochitv2.club/live/pablo-sala/30569481/494774.m3u8
