@@ -44,7 +44,7 @@ http://190.104.67.47:234/play/a08k/index.m3u8
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/cS6s37LP/unnamed-13.png" group-title="Nacionales",OP1 ELTRECE 
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
+ttps://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/cS6s37LP/unnamed-13.png" group-title="Nacionales",OP2 ELTRECE 
 https://
