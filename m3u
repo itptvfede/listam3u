@@ -1,9 +1,8 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png" group-title="Nacionales", EVENTOS 
-http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png" group-title="Nacionales", EVENTOS 2
