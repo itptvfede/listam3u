@@ -1,6 +1,15 @@
 #EXTM3U
 
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=58e1ebe75d944f6a98ea67b1c7c0a572&key%5B%5D=1c311b069dbce31ce8e62a6e7e2433eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tK20mxz/tycsports.png", TYC SPORTS INTERNACIONAL
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
+
+
+
+
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png" group-title="Nacionales", EVENTOS 
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
