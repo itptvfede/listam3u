@@ -74,3 +74,6 @@ http://tochitv2.club/live/pablo-sala/30569481/227695.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6KM8tBT/unnamed-7.png",NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6KM8tBT/unnamed-7.png",BIG CHANNEL
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
