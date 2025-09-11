@@ -80,3 +80,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6KM8tBT/unnamed-7.png",MAGIC TV
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6KM8tBT/unnamed-7.png",CTV CANAL
+https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
