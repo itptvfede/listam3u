@@ -1,9 +1,6 @@
 8#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png", eventos 1
-https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png", eventos 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png", eventos 
 http://181.188.216.5:18000/play/a0fe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RnjvR0m/unnamed-2.png", tyc internacional 
@@ -14,6 +11,30 @@ http://tochitv2.club/live/pablo-sala/30569481/494774.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpWtkNkg/retro-magico.png", retromagico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nM2FTKZB/CRONICATV.png",CRONICA TETS
+http://181.209.95.26:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwzbVJKy/descarga.jpg", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dstyr9qS/unnamed-10.png",CTV CANAL
+https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
