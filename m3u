@@ -1,4 +1,4 @@
-#EXTM3U
+8#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0M7Sjnh/unnamed-2.png",EVENTOS
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
@@ -86,3 +86,10 @@ https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6KM8tBT/unnamed-7.png",CINE PELI
 http://tochitv2.club/live/pablo-sala/30569481/494603.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6KM8tBT/unnamed-7.png",VOLVER
+http://190.104.67.87:234/play/a066/index.m3u8
+
+
+
+
