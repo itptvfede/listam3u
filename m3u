@@ -33,6 +33,33 @@ http://201.217.246.166:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbbj926m/ELNUEVEpng.png", el nueve tets
 http://190.104.67.47:234/play/a08k/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5RVh89R/film-arts.png", film  & arts test
+http://190.123.90.146:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ymKzZ1t9/TN.png",TN
+http://tochitv2.club/live/pablo-sala/30569481/482317.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23khrZmh/unnamed-8.png", espn premim
+http://tochitv2.club/live/pablo-sala/30569481/116009.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xbMS3SG/unnamed-1.png",nacion test
+http://190.104.67.7:234/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RB30wGP/unnamed.png", tyc test
+http://190.104.67.67:234/play/a06x/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
