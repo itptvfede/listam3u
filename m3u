@@ -93,5 +93,18 @@ http://190.104.67.87:234/play/a066/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6KM8tBT/unnamed-7.png",CRONICA TETS
 http://181.209.95.26:8000/play/a01q/index.m3u8
 
+<tv>
+  <channel id="eventos">
+    <display-name>EVENTOS</display-name>
+    <icon src="https://i.ibb.co/V0M7Sjnh/unnamed-2.png"/>
+  </channel>
+
+  <programme start="20250912T185500" stop="20250912T205500" channel="eventos">
+    <title>Racing vs San Lorenzo</title>
+    <desc>Partido de la Liga Argentina</desc>
+  </programme>
+</tv>
+
+
 
 
