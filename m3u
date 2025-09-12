@@ -15,11 +15,29 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nM2FTKZB/CRONICATV.png",CRONICA TETS
 http://181.209.95.26:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwzbVJKy/descarga.jpg", SONY CINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K1Q8mH2/SONY-CINE.png", sony cine
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dstyr9qS/unnamed-10.png",CTV CANAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dstyr9qS/unnamed-10.png", ctv canal
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwVkC9bp/SAN-LUIS.png", san luis +
+https://stream.radiosmundiales.com:19360/sanluismas/240p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n86DwHSt/unnamed-12.png",  telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgt8PjS6/C5N.png", c5n tets 
+http://201.217.246.166:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbbj926m/ELNUEVEpng.png", el nueve tets
+http://190.104.67.47:234/play/a08k/index.m3u8
+
+
+
+
+
+
 
 
 
