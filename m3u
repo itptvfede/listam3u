@@ -47,3 +47,6 @@ http://190.104.67.7:234/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & ARTS TETS
 http://190.123.90.146:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & TETS
+http://tochitv2.club/live/pablo-sala/30569481/497095.m3u8
