@@ -63,3 +63,6 @@ http://190.104.67.93:234/play/a08r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & TETS 
 http://tochitv2.club/live/pablo-sala/30569481/337730.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", TETS 
+http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
