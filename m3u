@@ -30,6 +30,9 @@ http://tochitv2.club/live/pablo-sala/30569481/122881.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nspqkMcr/fmh-family.jpg", FMH FAMILY
 http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gNwtwFC/images.jpg", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjdB1gqf/retromagico.jpg", RETRO MAGICO
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 
