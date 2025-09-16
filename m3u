@@ -1,13 +1,20 @@
 8#EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTg3VDTt/wcualh1660760950.png", ESPN 1 AR
+http://
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mjdnh6K/espn-premium.png", ESPN PREMIUM 
 http://tochitv2.club/live/pablo-sala/30569481/116009.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWTCxkrJ/TNT-PREMIUMpng.png", TNT PREMIUM 
 http://tochitv2.club/live/pablo-sala/30569481/118516.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TYC TETS
-http://190.104.67.67:234/play/a06x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TYC
+http://tochitv2.club/live/pablo-sala/30569481/124.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR81HHzL/tyc-int.png", TYC INTERNACIONAL
+http://tochitv2.club/live/pablo-sala/30569481/488363.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWQmbTWd/tn.jpg", TN NOTICIAS
 http://tochitv2.club/live/pablo-sala/30569481/482317.m3u8
@@ -21,9 +28,6 @@ http://tochitv2.club/live/pablo-sala/30569481/122881.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nspqkMcr/fmh-family.jpg", FMH FAMILY
 http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TYC
-http://tochitv2.club/live/pablo-sala/30569481/124.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjdB1gqf/retromagico.jpg", RETRO MAGICO
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 
@@ -35,9 +39,6 @@ http://tochitv2.club/live/pablo-sala/30569481/494603.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VcPgyg3z/simpsons.jpg",24/7 LOS SIMPSONS
 http://tochitv2.club/live/pablo-sala/30569481/494774.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR81HHzL/tyc-int.png", tyc internacional 
-http://tochitv2.club/live/pablo-sala/30569481/488363.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/krc9jrG/images-1.png",CRONICA TETS
 http://181.209.95.26:8000/play/a01q/index.m3u8
@@ -66,3 +67,6 @@ http://tochitv2.club/live/pablo-sala/30569481/337730.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", TETS 
 http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TYC TETS
+http://190.104.67.67:234/play/a06x/index.m3u8
