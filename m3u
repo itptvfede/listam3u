@@ -75,7 +75,7 @@ http://190.104.67.93:234/play/a08r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & TETS 
 http://tochitv2.club/live/pablo-sala/30569481/337730.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", TETS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/⁷FILM.png", TETS 
 http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TYC TETS
@@ -83,4 +83,4 @@ http://190.104.67.67:234/play/a06x/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TETS
-http://190.56.9.114:8000/play/a03f/index.m3u8
+http://181.176.153.107:8090/play/a1ff/index.m3u8
