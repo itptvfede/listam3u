@@ -104,3 +104,6 @@ http://200.12.41.194:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TETS 6
 http://tochitv2.club/live/pablo-sala/30569481/442011.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TETS 7
+http://tochitv2.club/live/pablo-sala/30569481/1009.m3u8
