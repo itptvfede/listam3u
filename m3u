@@ -1,5 +1,15 @@
 8#EXTM3U
 
+#EXTINF:-1 tvg-id="evento_disney_01" tvg-name="EVENTO DISNEY" tvg-logo="https://i.ibb.co/FqCFm5FV/descarga-1.jpg" start-time="11:34" end-time="13:00" status="programado", EVENTO DISNEY
+http://tochitv2.club/live/pablo-sala/30569481/599.m3u8
+
+#EXTINF:-1 tvg-id="evento_pixar_02" tvg-name="EVENTO PIXAR" tvg-logo="https://i.ibb.co/xyz123/pixar.jpg" start-time="16:30" end-time="18:00" status="programado", EVENTO PIXAR
+http://tochitv2.club/live/pablo-sala/30569481/600.m3u8
+
+#EXTINF:-1 tvg-id="evento_marvel_03" tvg-name="EVENTO MARVEL" tvg-logo="https://i.ibb.co/abc456/marvel.jpg" start-time="19:00" end-time="21:00" status="programado", EVENTO MARVEL
+http://tochitv2.club/live/pablo-sala/30569481/601.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FqCFm5FV/descarga-1.jpg", EVENTO DISNEY
 http://tochitv2.club/live/pablo-sala/30569481/599.m3u8
 
