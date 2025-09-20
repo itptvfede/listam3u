@@ -42,10 +42,10 @@ http://tochitv2.club/live/pablo-sala/30569481/477666.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg",  telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgt8PjS6/C5N.png", c5n tets 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3VmFy3k/C5N.jpg", c5n tets 
 http://201.217.246.166:8000/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbbj926m/ELNUEVEpng.png", el nueve tets
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzkfRPLz/descarga-2.jpg", elnueve tets
 http://190.104.67.47:234/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pdzTJT0/eltrece-int.jpg", TETS EL TRECE INTERNACIONAL
