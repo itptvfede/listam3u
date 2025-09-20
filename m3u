@@ -18,7 +18,7 @@ http://tochitv2.club/live/pablo-sala/30569481/118516.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TYC
 http://tochitv2.club/live/pablo-sala/30569481/124.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR81HHzL/tyc-int.png", TYC INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3P4BvNT/TYC-INTEER.png", TYC INTERNACIONAL
 http://tochitv2.club/live/pablo-sala/30569481/488363.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWQmbTWd/tn.jpg", TN NOTICIAS
@@ -33,8 +33,14 @@ http://tochitv2.club/live/pablo-sala/30569481/122881.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nspqkMcr/fmh-family.jpg", FMH FAMILY
 http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n86DwHSt/unnamed-12.png",  telefe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg",  telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgt8PjS6/C5N.png", c5n tets 
+http://201.217.246.166:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbbj926m/ELNUEVEpng.png", el nueve tets
+http://190.104.67.47:234/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pdzTJT0/eltrece-int.jpg", TETS EL TRECE INTERNACIONAL
 http://181.78.202.249:8002/play/a0bi/index.m3u8
