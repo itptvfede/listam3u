@@ -45,6 +45,12 @@ http://tochitv2.club/live/pablo-sala/30569481/497095.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtFD7GRt/tooncast.jpg", TOONCAST
 http://tochitv2.club/live/pablo-sala/30569481/477666.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & TETS 
+http://tochitv2.club/live/pablo-sala/30569481/337730.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/⁷FILM.png", TETS 
+http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg",  telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
@@ -87,16 +93,10 @@ http://tochitv2.club/live/pablo-sala/30569481/747.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & TETS CINEMAX
 http://190.104.67.93:234/play/a08r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & TETS 
-http://tochitv2.club/live/pablo-sala/30569481/337730.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/⁷FILM.png", TETS 
-http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TYC TETS
 http://190.104.67.67:234/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TETS 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pB76tzg1/BITE.png", TETS BITME
 http://181.176.153.107:8090/play/a1ff/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TETS 2
