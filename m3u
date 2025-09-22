@@ -114,3 +114,8 @@ http://tochitv2.club/live/pablo-sala/30569481/1009.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TEST
 http://tochitv2.club/live/pablo-sala/30569481/442009.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", prueba
+https://anvtcax.fubohd.com/espnpremium/mono.m3u8?token=e703ca792894f0eb146e9795ff3b7d1087be22fc-f4-1758519103-1758501103
