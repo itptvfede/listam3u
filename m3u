@@ -47,6 +47,9 @@ http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWxhkRbY/GOLDEN-PLUS.jpg", GOLDEN PLUS
 http://tochitv2.club/live/pablo-sala/30569481/497095.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMsvg08G/descarga-3.png", TETS TNT
+http://tochitv2.club/live/pablo-sala/30569481/747.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtFD7GRt/tooncast.jpg", TOONCAST
 http://tochitv2.club/live/pablo-sala/30569481/477666.m3u8
 
@@ -56,13 +59,19 @@ http://tochitv2.club/live/pablo-sala/30569481/337730.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFVz7dkr/teeknick.png", TEEN NICK
 http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg",  telefe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tphpVwH4/descarga-2.png", DISCOVERY CHANNEL
+http://
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v8By9XX/descarga-3.jpg", HISTORY
+http://tochitv2.club/live/pablo-sala/30569481/1009.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C3VmFy3k/C5N.jpg", c5n tets 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3VmFy3k/C5N.jpg", TETS C5N
 http://201.217.246.166:8000/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzkfRPLz/descarga-2.jpg", elnueve tets
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzkfRPLz/descarga-2.jpg", TETS ELNUEVE
 http://190.104.67.47:234/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pdzTJT0/eltrece-int.jpg", TETS EL TRECE INTERNACIONAL
@@ -92,9 +101,6 @@ http://190.104.67.7:234/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & ARTS TETS
 http://190.123.90.146:8000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", TETS TNT
-http://tochitv2.club/live/pablo-sala/30569481/747.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & TETS CINEMAX
 http://190.104.67.93:234/play/a08r/index.m3u8
 
@@ -110,12 +116,8 @@ http://200.12.41.194:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TETS 6
 http://tochitv2.club/live/pablo-sala/30569481/442011.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", HISTORY
-http://tochitv2.club/live/pablo-sala/30569481/1009.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TEST
 http://tochitv2.club/live/pablo-sala/30569481/442009.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", prueba
 http://8.242.189.218:9000/play/a06f/index.m3u8
