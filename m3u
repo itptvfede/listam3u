@@ -71,8 +71,14 @@ http://tochitv2.club/live/pablo-sala/30569481/1009.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFKp3Kzn/channels4-profile.jpg",NG FEDERAL
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3VmFy3k/C5N.jpg", TETS C5N
 http://201.217.246.166:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZjB2FLB/VOLVER.png", TETS VOLVER
+http://190.104.67.87:234/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzkfRPLz/descarga-2.jpg", TETS ELNUEVE
 http://190.104.67.47:234/play/a08k/index.m3u8
