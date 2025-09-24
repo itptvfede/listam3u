@@ -1,8 +1,7 @@
 8#EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FqCFm5FV/descarga-1.jpg", EVENTO DISNEY
-http://tochitv2.club/live/pablo-sala/30569481/599.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMdgn4nZ/CTV.jpg", CTV CANAL LOCAL
+https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWxKz1GF/images.jpg", ESPN 1 AR
 http://tochitv2.club/live/pablo-sala/30569481/27399.m3u8
@@ -75,7 +74,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWm8WXVt/go-go-play.jpg",GO GO PLAY
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7dkDJ8SJ/dreamworks.png", DREAMWORKS PELICULAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dkDJ8SJ/dreamworks.png", DREAMWORKS 
 http://tochitv2.club/live/pablo-sala/30569481/494603.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VcPgyg3z/simpsons.jpg",24/7 LOS SIMPSONS
