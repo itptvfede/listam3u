@@ -41,7 +41,6 @@ http://tochitv2.club/live/pablo-sala/30569481/230525.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWfvGpVs/cinemax.png", CINEMAX
 http://tochitv2.club/live/pablo-sala/30569481/122881.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nspqkMcr/fmh-family.jpg", FMH FAMILY
 http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
 
@@ -132,7 +131,6 @@ http://tochitv2.club/live/pablo-sala/30569481/442009.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", prueba
 http://8.242.189.218:9000/play/a06f/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", BIG CHANNEL TEST
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
