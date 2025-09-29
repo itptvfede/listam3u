@@ -1,10 +1,13 @@
 8#EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMdgn4nZ/CTV.jpg", CTV CANAL LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWxKz1GF/images.jpg", ESPN 1 AR
 http://tochitv2.club/live/pablo-sala/30569481/27399.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymMr8KBP/fox-sports.png", FOX SPORTS 1 AR
 http://tochitv2.club/live/pablo-sala/30569481/114.m3u8
@@ -132,9 +135,11 @@ http://tochitv2.club/live/pablo-sala/30569481/442009.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", prueba
 http://8.242.189.218:9000/play/a06f/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", BIG CHANNEL TEST
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TEST
-http://looknowsytes.com:25461/live/BRASILEIRO/KEYCANALES/357.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TEST3
+http://looknowsytes.com:25461/live/BRASILEIRO/KEYCANALES/394.ts
 
