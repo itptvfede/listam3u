@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMdgn4nZ/CTV.jpg", CTV CANAL LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
@@ -140,3 +143,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TEST3445
 http://looknowsytes.com:25461/live/BRASILEIRO/KEYCANALES/394.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TTV
+http://looknowsytes.com:25461/live/BRASILEIRO/KEYCANALES/394.m3u8
