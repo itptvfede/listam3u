@@ -1,37 +1,44 @@
 #EXTM3U
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMdgn4nZ/CTV.jpg", CTV CANAL LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWxKz1GF/images.jpg", ESPN 1 AR
 http://tochitv2.club/live/pablo-sala/30569481/27399.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymMr8KBP/fox-sports.png", FOX SPORTS 1 AR
 http://tochitv2.club/live/pablo-sala/30569481/114.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mjdnh6K/espn-premium.png", ESPN PREMIUM 
 http://tochitv2.club/live/pablo-sala/30569481/116009.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWTCxkrJ/TNT-PREMIUMpng.png", TNT PREMIUM 
 http://tochitv2.club/live/pablo-sala/30569481/118516.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TYC
 http://tochitv2.club/live/pablo-sala/30569481/124.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3P4BvNT/TYC-INTEER.png", TYC INTERNACIONAL
 http://tochitv2.club/live/pablo-sala/30569481/488363.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHFkQTRP/ELTRECE.jpg", ELTRECE
 http://tochitv2.club/live/pablo-sala/30569481/226940.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tq1vCR3/AMERICATV.jpg", AMERICATV
 http://tochitv2.club/live/pablo-sala/30569481/285749.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWQmbTWd/tn.jpg", TN NOTICIAS
 http://tochitv2.club/live/pablo-sala/30569481/482317.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DDphNdq8/CANAL26.png", CANAL 26
 http://tochitv2.club/live/pablo-sala/30569481/184126.m3u8
@@ -44,29 +51,38 @@ http://tochitv2.club/live/pablo-sala/30569481/230525.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWfvGpVs/cinemax.png", CINEMAX
 http://tochitv2.club/live/pablo-sala/30569481/122881.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nspqkMcr/fmh-family.jpg", FMH FAMILY
 http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWxhkRbY/GOLDEN-PLUS.jpg", GOLDEN PLUS
 http://tochitv2.club/live/pablo-sala/30569481/497095.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMsvg08G/descarga-3.png", TNT
 http://tochitv2.club/live/pablo-sala/30569481/747.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtFD7GRt/tooncast.jpg", TOONCAST
 http://tochitv2.club/live/pablo-sala/30569481/477666.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prjFc2gw/adult-swim.png", ADULT SWIM
 http://tochitv2.club/live/pablo-sala/30569481/337730.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFVz7dkr/teeknick.png", TEEN NICK
 http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hSZmy67/images.png", SPACE
 http://tochitv2.club/live/pablo-sala/30569481/180708.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tphpVwH4/descarga-2.png", DISCOVERY CHANNEL
 http://
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v8By9XX/descarga-3.jpg", HISTORY
 http://tochitv2.club/live/pablo-sala/30569481/1009.m3u8
@@ -75,29 +91,38 @@ http://tochitv2.club/live/pablo-sala/30569481/1009.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFKp3Kzn/channels4-profile.jpg",NG FEDERAL
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3VmFy3k/C5N.jpg", TETS C5N
 http://201.217.246.166:8000/play/a05v/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZjB2FLB/VOLVER.png", TETS VOLVER
 http://190.104.67.87:234/play/a066/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzkfRPLz/descarga-2.jpg", TETS ELNUEVE
 http://190.104.67.47:234/play/a08k/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pdzTJT0/eltrece-int.jpg", TETS EL TRECE INTERNACIONAL
 http://181.78.202.249:8002/play/a0bi/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gNwtwFC/images.jpg", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjdB1gqf/retromagico.jpg", RETRO MAGICO
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWm8WXVt/go-go-play.jpg",GO GO PLAY
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dkDJ8SJ/dreamworks.png", DREAMWORKS 
 http://tochitv2.club/live/pablo-sala/30569481/494603.m3u8
@@ -105,32 +130,43 @@ http://tochitv2.club/live/pablo-sala/30569481/494603.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VcPgyg3z/simpsons.jpg",24/7 LOS SIMPSONS
 http://tochitv2.club/live/pablo-sala/30569481/494774.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/krc9jrG/images-1.png",CRONICA TETS
 http://181.209.95.26:8000/play/a01q/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j99L1X03/NACION.jpg", NACION TETS
 http://190.104.67.7:234/play/a05y/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & ARTS TETS
 http://190.123.90.146:8000/play/a005/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mFnfQf8/FILM.png", FILM & TETS CINEMAX
 http://190.104.67.93:234/play/a08r/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TYC TETS
 http://190.104.67.67:234/play/a06x/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pB76tzg1/BITE.png", TETS BITME
 http://181.176.153.107:8090/play/a1ff/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TETS 2
 http://200.12.41.194:8000/play/a006/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TETS 6
 http://tochitv2.club/live/pablo-sala/30569481/442011.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TEST
 http://tochitv2.club/live/pablo-sala/30569481/442009.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", prueba
 http://8.242.189.218:9000/play/a06f/index.m3u8
@@ -140,9 +176,11 @@ http://8.242.189.218:9000/play/a06f/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TEST3445
 http://looknowsytes.com:25461/live/BRASILEIRO/KEYCANALES/394.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TTV3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TTV3566
 http://looknowsytes.com:25461/live/BRASILEIRO/KEYCANALES/451.m3u8
