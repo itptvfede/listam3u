@@ -144,5 +144,6 @@ http://liketv.pro/live/User1978/123456789/317323.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", OP 1 CINEMAX 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278467.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", OP 1 TEST
+http://e10.cdnfree.live:2052/free10/002/chunks.m3u8?nimblesessionid=3253368&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDM6NDc6MjIgUE0maGFzaF92YWx1ZT1qNHplbjdTRElzNU83OUtrbFNKQkhnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
