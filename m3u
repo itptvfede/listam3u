@@ -82,9 +82,6 @@ http://190.104.67.87:234/play/a066/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzkfRPLz/descarga-2.jpg", TETS ELNUEVE
 http://190.104.67.47:234/play/a08k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0pdzTJT0/eltrece-int.jpg", TETS EL TRECE INTERNACIONAL
-http://181.78.202.249:8002/play/a0bi/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gNwtwFC/images.jpg", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
