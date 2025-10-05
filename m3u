@@ -149,3 +149,11 @@ http://tochitv2.club/live/pablo-sala/30569481/63837.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", OP web
 https://router.cdn.rcs.net.ar/mnp/trutv/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TNT
+https://router.cdn.rcs.net.ar/mnp/tnt/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", cinemax
+https://router.cdn.rcs.net.ar/mnp/cinemax/output.mpd
