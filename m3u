@@ -155,5 +155,5 @@ https://router.cdn.rcs.net.ar/mnp/trutv/output.mpd
 https://router.cdn.rcs.net.ar/mnp/tnt/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", cinemax
-https://router.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", kids
+http://181.119.86.68:8000/play/b037/index.m3u8
