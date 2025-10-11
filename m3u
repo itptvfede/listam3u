@@ -7,7 +7,7 @@ https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 http://tochitv2.club/live/pablo-sala/30569481/27399.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymMr8KBP/fox-sports.png", FOX SPORTS 1 AR
-http://tochitv2.club/live/pablo-sala/30569481/114.m3u8
+http://tochitv2.club/live/pablo-sala/30569481/114.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mjdnh6K/espn-premium.png", ESPN PREMIUM 
 http://tochitv2.club/live/pablo-sala/30569481/116009.ts
@@ -38,7 +38,7 @@ http://tochitv2.club/live/pablo-sala/30569481/184126.m3u8
 http://tochitv2.club/live/pablo-sala/30569481/230525.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWfvGpVs/cinemax.png", CINEMAX
-http://tochitv2.club/live/pablo-sala/30569481/122881.m3u8
+http://tochitv2.club/live/pablo-sala/30569481/122881.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nspqkMcr/fmh-family.jpg", FMH FAMILY
 http://tochitv2.club/live/pablo-sala/30569481/442010.m3u8
