@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMdgn4nZ/CTV.jpg", CTV CANAL LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
@@ -56,7 +57,7 @@ http://tochitv2.club/live/pablo-sala/30569481/477666.ts
 http://tochitv2.club/live/pablo-sala/30569481/337730.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFVz7dkr/teeknick.png", TEEN NICK
-http://tochitv2.club/live/pablo-sala/30569481/982.m3u8
+http://tochitv2.club/live/pablo-sala/30569481/982.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hSZmy67/images.png", SPACE
 http://tochitv2.club/live/pablo-sala/30569481/180708.m3u8
