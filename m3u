@@ -142,7 +142,7 @@ http://8.242.189.218:9000/play/a051/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", OP 1 CINEMAX 
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278467.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278467.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", OP 1 TEST
 http://tochitv2.club/live/pablo-sala/30569481/63837.m3u8
