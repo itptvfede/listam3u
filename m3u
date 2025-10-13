@@ -98,7 +98,7 @@ http://tochitv2.club/live/pablo-sala/30569481/494603.m3u8
 http://tochitv2.club/live/pablo-sala/30569481/494774.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/krc9jrG/images-1.png",CRONICA TETS
-http://181.209.95.26:8000/play/a01q/index.ts
+http://181.209.95.26:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j99L1X03/NACION.jpg", NACION TETS
 http://190.104.67.7:234/play/a05y/index.m3u8
