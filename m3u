@@ -168,3 +168,10 @@ http://looknowsytes.com:25461/live/BRASILEIRO/KEYCANALES/012.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", cine tets33
 http://liketv.pro/live/Federico1103/F98712564/125372.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", tooncast
+https://router.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", tn
+https://router.cdn.rcs.net.ar/mnp/tn/output.mpd
