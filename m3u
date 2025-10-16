@@ -51,3 +51,5 @@ http://tochitv2.club/live/pablo-sala/30569481/747.ts
 #EXTINF:-17 tvg-logo="https://i.ibb.co/hSZmy67/images.png", SPACE
 http://tochitv2.club/live/pablo-sala/30569481/180708.ts
 
+#EXTINF:-18 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
