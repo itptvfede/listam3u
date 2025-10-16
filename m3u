@@ -54,5 +54,5 @@ http://tochitv2.club/live/pablo-sala/30569481/180708.ts
 #EXTINF:-18 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-18 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TELEFE2
+#EXTINF:-19 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TELEFE2
 https://router.cdn.rcs.net.ar/mnp/canal26/output.mpd
