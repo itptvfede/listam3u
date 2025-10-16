@@ -56,3 +56,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-19 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TETS CANAL26
 https://router.cdn.rcs.net.ar/mnp/canal26/output.mpd
+
+#EXTINF:-20 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TETS ELTRECE
+https://router.cdn.rcs.net.ar/mnp/eltrece/output.mpd
