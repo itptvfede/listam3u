@@ -36,5 +36,8 @@ http://tochitv2.club/live/pablo-sala/30569481/226940.ts
 #EXTINF:-12 tvg-logo="https://i.ibb.co/ksrFzgDj/descarga.png", HBO FAMILY
 http://tochitv2.club/live/pablo-sala/30569481/230525.ts0
 
-#EXTINF:-12 tvg-logo="https://i.ibb.co/ksrFzgDj/descarga.png", prueba
-https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+#EXTINF:-13 tvg-logo="https://i.ibb.co/WWfvGpVs/cinemax.png", CINEMAX
+http://tochitv2.club/live/pablo-sala/30569481/122881.ts
+
+#EXTINF:-14 tvg-logo="https://i.ibb.co/nspqkMcr/fmh-family.jpg", FMH FAMILY
+http://tochitv2.club/live/pablo-sala/30569481/442010.ts
