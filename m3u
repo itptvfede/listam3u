@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMdgn4nZ/CTV.jpg", CTV CANAL LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
@@ -53,3 +55,6 @@ http://tochitv2.club/live/pablo-sala/30569481/180708.ts
 
 #EXTINF:-18 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+EXTINF:-19 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png",CANAL 26 TETS
+https://router.cdn.rcs.net.ar/mnp/canal26/output.mpd
