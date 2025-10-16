@@ -50,3 +50,9 @@ http://tochitv2.club/live/pablo-sala/30569481/747.ts
 
 #EXTINF:-17 tvg-logo="https://i.ibb.co/hSZmy67/images.png", SPACE
 http://tochitv2.club/live/pablo-sala/30569481/180708.ts
+
+EXTINF:-18 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png",TN TETS
+https://router.cdn.rcs.net.ar/mnp/tn/output.mpd
+
+EXTINF:-19 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png",IP TETS
+https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
