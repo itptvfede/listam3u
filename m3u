@@ -4,7 +4,7 @@
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co/JWxKz1GF/images.jpg",ESPN 1 AR
-http://tochitv2.club/live/pablo-sala/30569481/27399.ts
+http://tochitv2.club/live/pablo-sala/30569481/27399.m3u8
 
 #EXTINF:-3 tvg-logo="https://i.ibb.co/ymMr8KBP/fox-sports.png", FOX SPORTS 1 AR
 http://tochitv2.club/live/pablo-sala/30569481/114.ts
