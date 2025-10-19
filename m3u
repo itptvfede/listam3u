@@ -4,7 +4,7 @@
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co/JWxKz1GF/images.jpg",ESPN 1 AR
-http://tochitv2.club/live/pablo-sala/30569481/27399.m3u8
+http://liketv.pro/live/Federico1103/F98712564/134.ts
 
 #EXTINF:-3 tvg-logo="https://i.ibb.co/ymMr8KBP/fox-sports.png", FOX SPORTS 1 AR
 http://tochitv2.club/live/pablo-sala/30569481/114.ts
@@ -60,8 +60,6 @@ https://router.cdn.rcs.net.ar/mnp/canal26/output.mpd
 #EXTINF:-20 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TETS ELTRECE
 https://router.cdn.rcs.net.ar/mnp/tn/output.mpd
 
-#EXTINF:-21 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TETS 
-http://liketv.pro/live/Federico1103/F98712564/134.ts
 
 #EXTINF:-22 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TETS6
 http://liketv.pro/live/Federico1103/F98712564/27.ts
