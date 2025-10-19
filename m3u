@@ -84,3 +84,6 @@ http://looknowsytes.com:25461/live/BRASILEIRO/KEYCANALES/394.ts
 #EXTINF:-6 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TETS TYC
 http://190.104.67.56:234/play/a06x/index.m3u8
 
+#EXTINF:-8 tvg-logo=" https://i.ibb.co/zH5RK6D9/lanacion.jpg", LANACION
+http://190.104.67.40:234/play/a05y/index.m3u8
+
