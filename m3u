@@ -60,7 +60,7 @@ https://router.cdn.rcs.net.ar/mnp/canal26/output.mpd
 #EXTINF:-20 tvg-logo="https://i.ibb.co/zWQmbTWd/tn.jpg", TETS TN
 https://router.cdn.rcs.net.ar/mnp/tn/output.mpd
 
-#EXTINF:-22 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TETS6
+#EXTINF:-22 tvg-logo=" https://i.ibb.co/F4sswHys/FMH-KIDS.png", FMH KIDS
 http://liketv.pro/live/Federico1103/F98712564/27.ts
 
 #EXTINF:-22 tvg-logo=" https://i.ibb.co/KzXXgCxD/LOGO-DISCOVERY.png", DISCOVERY CHANNEL
