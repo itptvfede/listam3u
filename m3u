@@ -54,7 +54,7 @@ http://tochitv2.club/live/pablo-sala/30569481/180708.ts
 #EXTINF:-18 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-19 tvg-logo="https://i.ibb.co/zWQmbTWd/tn.jpg", TETS CANAL26
+#EXTINF:-19 tvg-logo="https://i.ibb.co/LDYh5pkH/canal-26-logo.jpg", TETS CANAL26
 https://router.cdn.rcs.net.ar/mnp/canal26/output.mpd
 
 #EXTINF:-20 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TETS TN
