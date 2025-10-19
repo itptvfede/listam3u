@@ -74,3 +74,6 @@ http://liketv.pro/live/Federico1103/F98712564/17551.ts
 
 #EXTINF:-23 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TETS9
 http://liketv.pro/live/Federico1103/F98712564/17506.ts
+
+#EXTINF:-24 tvg-logo="https://i.ibb.co/VW9dn45b/descarga.jpg", TETS8
+https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
