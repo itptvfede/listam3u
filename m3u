@@ -92,3 +92,7 @@ http://181.209.95.26:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png", TRUTV
 https://router.cdn.rcs.net.ar/mnp/trutv/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png",prueba
+http://45.171.64.30:8800/play/a04l
