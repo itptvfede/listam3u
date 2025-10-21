@@ -94,4 +94,4 @@ http://181.209.95.26:8000/play/a01q/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wvjr71Q3/TYC.png",prueba
-http://e10.cdnfree.live:2052/free10/154/chunks.m3u8?nimblesessionid=4954908&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSAxOjA3OjQ2IFBNJmhhc2hfdmFsdWU9eHpXZlp4V29JWGo4Z1h5bnZ0RG5NZz09JnZhbGlkbWludXRlcz0yNDA=
+http://45.230.199.108:8000/play/a01p/index.m3u8
