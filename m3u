@@ -3,5 +3,5 @@
 #EXTINF:-01 tvg-logo="https://i.ibb.co/7dNLrnX1/tn.jpg",TN OP1
 http://181.13.252.102:8000/play/a058/index.m3u8
 
-#EXTINF:-02 tvg-logo="https://ejemplo.com/logo2.png",Canal Dos
-https://ejemplo.com/stream2.m3u8
+#EXTINF:-02 tvg-logo="https://ibb.co/35pkRxng",TEEN NICK 
+http://45.230.199.108:8000/play/a01p/index.m3u8
