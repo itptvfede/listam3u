@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ejemplo.com/logo1.png",Canal Uno
-https://ejemplo.com/stream1.m3u8
+#EXTINF:-01 tvg-logo="https://ejemplo.com/logo1.png",TN OP1
+http://45.5.151.251:8000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ejemplo.com/logo2.png",Canal Dos
+#EXTINF:-02 tvg-logo="https://ejemplo.com/logo2.png",Canal Dos
 https://ejemplo.com/stream2.m3u8
