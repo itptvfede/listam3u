@@ -18,5 +18,11 @@ https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|ref
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-15 tvg-id="Encuentro.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="Culturales", Encuentro
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e6bc6cd9b600238f89d75ffb02cb852:f102949aa16d1a741d0fa30dc60f9cbd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 
