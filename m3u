@@ -64,4 +64,4 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
 #KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
+https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
