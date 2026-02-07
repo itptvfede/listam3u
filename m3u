@@ -279,6 +279,17 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #EXTINF:-1 group-title="",CANAL IZZI
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/CANALIZZISD/default.mpd
 
+#EXTINF:-41 tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png" group-title="", 🇲🇽 MX ⚽ DEPORTES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+#EXTINF:-1 group-title="",TUDN
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
+
+
+
+
 
 
 
