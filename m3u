@@ -272,13 +272,12 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 
 #EXTINF:-40 tvg-logo="https://i.postimg.cc/jdNpPd0T/izzi.pngIworldtv2" group-title="", Canal IZZI
 #KODIPROP:inputstreamaddon=flujo de entrada.adaptable
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f37a2c616a17358d8afda0326fbf7151:bdaad10dbfe10b082ee61bce67787e27
-#EXTINF:-128 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/160/160/0/0/11000383072218.png?worldtv2 " group-title="", Canal IZZI
+#EXTINF:-1 group-title="",HBO Family
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/CANALIZZISD/default.mpd
-
-
 
 
 
