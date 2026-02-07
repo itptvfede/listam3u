@@ -258,6 +258,13 @@ https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-38 ch-number="120" tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true" group-title="Deportes", Golf TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
 
 
 
