@@ -270,7 +270,7 @@ https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-40 tvg-logo="https://i.postimg.cc/jdNpPd0T/izzi.pngIworldtv2" group-title="", Canal IZZI
+#EXTINF:-40 tvg-logo="https://i.ibb.co/nsDCSb2Y/z.png" group-title="", Canal IZZI
 #KODIPROP:inputstreamaddon=flujo de entrada.adaptable
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
