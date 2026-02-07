@@ -335,7 +335,11 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALPREMIEREHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALREALITYHD/default.mpd
 
-
+#EXTINF:-49 tvg-name="HBO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png",HBO
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOHD/default.mpd
 
 
 
