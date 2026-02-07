@@ -264,6 +264,11 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-39, PX Deportes
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
