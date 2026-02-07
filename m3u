@@ -169,6 +169,12 @@ https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-23 ch-number="108" tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="🇦🇷 PACK DEPORTES ARG",TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
  
 
 
