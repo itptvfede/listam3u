@@ -295,14 +295,14 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
 #EXTINF:-1 group-title="",REAL MADRID
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/REALMADRIDHD/default.mpd
 
+
 #EXTINF:-43 tvg-logo="https://i.postimg.cc/NFQPXpQy/hi-sports.png" group-title="", Hola Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2966ad533e52a19c3ded1c7b9e40370:2e0bb20e3edb3ce7fc0d616b3ff28748
 #EXTINF:-1 group-title="",HOLA DEPORTES
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/HISPORTSSD/default.mp
-
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/HISPORTSSD/default.mpd
 
 
 
