@@ -276,7 +276,7 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f37a2c616a17358d8afda0326fbf7151:bdaad10dbfe10b082ee61bce67787e27
-#EXTINF:-1 group-title="",HBO Family
+#EXTINF:-1 group-title="",CANAL IZZI
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/CANALIZZISD/default.mpd
 
 
