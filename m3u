@@ -391,7 +391,11 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/WARNERHD/default.mpd
 
-
+#EXTINF:-58 tvg-name="Sony" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png?worldtv2",Sony
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/SONYHD/default.mpd
 
 
 
