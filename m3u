@@ -397,7 +397,11 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/WARNERHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/SONYHD/default.mpd
 
-
+#EXTINF:-59 tvg-name="Space" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png?worldtv2",Space
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd
 
 
 
