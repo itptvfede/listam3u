@@ -474,6 +474,13 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/A3CINEHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=2ec74612833c48e4e2bf730aef0f92a5:bf851c48ef13fde3aa7ce6183fb5f861
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/ATRESSERIESHD/default.mpd
 
+#EXTINF:-71 tvg-name="De Película" tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png",De Película
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DEPELICULASD/default.mpd
+
+
 
 
 
