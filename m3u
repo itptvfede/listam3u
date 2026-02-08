@@ -385,6 +385,12 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOSIGNATUREHD/default.mpd
 #EXTINF:-1 group-title="",HBO XTREME
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
 
+#EXTINF:-57 tvg-name="Warner" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png?worldtv2",Warner
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/WARNERHD/default.mpd
+
 
 
 
