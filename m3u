@@ -486,6 +486,12 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/DEPELICULASD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=976d703cb95202a808972c722544fae1:562775b170402c6e2309ff69b9e48e82
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/AXNHD/default.mpd
 
+#EXTINF:-73 tvg-name="USA" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png?worldtv2",USA
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/USAHD/default.mpd
+
 
 
 
