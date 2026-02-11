@@ -510,6 +510,13 @@ https://nog-live1-ott.izzigo.tv/4/out/u/dash/DEPELICULAHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=23ca6a142d580eb99bd14dda4b023b5d:d0534260b536e85d76efe8576afcf473
 https://nog-live1-ott.izzigo.tv/1/out/u/dash/EUROPAHD/default.mpd
 
+#EXTINF:-77 tvg-name="Film & Arts" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/286/CH_LOGO/160/160/0/0/801518560763.png",Film & Arts
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31107b01ab02c96457fe0a000f3e0569:c024c45d71db474d2fa121729e596ca8
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/FILMANDARTSHD/default.mpd
+
+
 
 
 
