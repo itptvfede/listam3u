@@ -9,7 +9,7 @@ http://201.217.246.166:8000/play/a06z/index.m3u8
 http://181.13.252.102:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.web.mas" tvg-name="TN WEB MÁS" group-title="Argentina", TN WEB MÁS
-https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/04d89ae0-a220-449b-a389-782a1e3afa33:SCL2/variant/b2110a06d9c5deb07fe7bc0b6b2f18cf/bandwidth/1680800.m3u8
+http://186.0.248.95:20202/Live/e8d129e571cefafde5dc75f1ee950de6/tn.720.26951.ts
 
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7 OP1" tvg-logo="https://i.ibb.co/SXV2RPmC/7.jpg",SIMPSONS 24/7 OP1
