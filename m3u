@@ -26,6 +26,11 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 #KODIPROP:inputstream.adaptive.license_key=e2ff4f665fe9491ea914f5f8f0df0031:a5be72ad37f75ccc739ed951a3360958
 https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd
 
+#EXTINF:-1 tvg-name="TYC2 OP2",TYC2 OP2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=090604e982684762a8f8bf752c110b61:bd39fbeeb70aae5322fc163831cc2f8a
+https://bvclive1.boldmss.com/TYC_SPORTS_2/TYC_SPORTS_2_BVC.isml/TYC_SPORTS_2.mpd
+
 #EXTINF:-01 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://i.ibb.co/3YjSZHF8/t.png" group-title="🇦🇷 ARG | CANALES NACIONALES",TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
