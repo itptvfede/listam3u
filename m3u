@@ -591,6 +591,12 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ADULTSWIMHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=5c9418c5729e8224f99940cf5b6c0c45:336cd7efd1d7a1829d0f3d22c2c8dc0a
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/TOONCASTSD/default.mpd
 
+#EXTINF:-89 tvg-name="Cartoon Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png",Cartoon Network
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/CARTOONNETWORKHD/default.mpd
+
 .
 
 
