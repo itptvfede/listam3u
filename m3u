@@ -31,6 +31,11 @@ https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd
 #KODIPROP:inputstream.adaptive.license_key=e3feecb729a34e7cb0123c25dd890362:a0ce3b8a17ccfb82f7eef4d65710d0f0
 https://bvclive1.boldmss.com/AR12/AR12_BVC.isml/AR12.mpd
 
+#EXTINF:-1 tvg-name="A24",A24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b566d46e6bc340dbabb14761b721f718:dc16d14e8b45781e120f54279c5f6a93
+https://bvclive1.boldmss.com/A24/A24_BVC.isml/A24.mpd
+
 #EXTINF:-1 tvg-name="TYC2 OP2",TYC2 OP2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=090604e982684762a8f8bf752c110b61:bd39fbeeb70aae5322fc163831cc2f8a
