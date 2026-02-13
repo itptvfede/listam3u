@@ -602,13 +602,11 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/TOONCASTSD/default.mpd
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/CARTOONNETWORKHD/default.mpd
 
 
-#EXTINF:-1 tvg-id="A24.ar.uy" tvg-name="A24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="Noticias", A24
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Noticias", A24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=b566d46e6bc340dbabb14761b721f718:dc16d14e8b45781e120f54279c5f6a93
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://SMT-USR-EDGE02.sensa.com.ar/live/eds/A24/live_cld/A24-avc1_1200000=3.m3u8
 
 
 
