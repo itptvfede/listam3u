@@ -601,14 +601,13 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/TOONCASTSD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/CARTOONNETWORKHD/default.mpd
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Noticias", A24
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&Origin=https://player.sensa.com.ar&User-Agent=Mozilla/5.0&webtoken=1.0
-http://SMT-USR-EDGE02.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
 
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Noticias", A24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
+https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
 
 
 
