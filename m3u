@@ -29,6 +29,14 @@ http://181.13.252.102:8000/play/a0bc
 #EXTINF:-1 tvg-name="Eventos ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS 2",Eventos 2 ARG
 http://181.13.252.102:8000/play/a078/index.m3u8
 
+#EXTINF:-1 tvg-name="TNT Sports Premium" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/400/400/0/0/27256579073984.png",TNT Sports Premium
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://webclient.antinaplayplus.com.ar/
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)
+https://mplus.pontiscloud.com/bpk-tv/TNTSports/default/index.mpd
+
 #EXTINF:-1,CINE24
 https://app.viloud.tv:443/hls/channel/sep/4f2f4cd5a3f2876bc3cae2674a7189b7/low.m3u8
 
