@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="🇦🇷 TV ARGENTINA", A24
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=YzE2YzAyM2YtMzg2YS00YzhmLTllYmUtOGY0NTU3YmFiZDQ5
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0|User-Agent=Roku/DVP-12.0 (12.0.0.4186-55)
-https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
 
+#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="TV ARGENTINA", TELEFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9bb54fccffaddd38916e85c08de98cc9&key%5B%5D=d06f509c418eb6f1b2fc2b766445328b
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://webclient.antinaplayplus.com.ar/
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)
+https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 #EXTM3U
 #EXTINF:-1 tvg-name="Eventos ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",Eventos ARG
