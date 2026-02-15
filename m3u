@@ -644,9 +644,5 @@ https://nog-live1-ott.izzigo.tv/4/out/u/dash/CARTOONNETWORKHD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://webclient.antinaplayplus.com.ar/|User-Agent=Roku/DVP-12.0 (12.0.0.4186-55)
 https://mplus.pontiscloud.com/live/eds/A24/live_dash_cld/A24.mpd
 
-#EXTINF:-64 tvg-name="Nickelodeon" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png" group-title="Infantiles", Nickelodeon
-#EXTVLCOPT:http-referrer=https://webclient.antinaplayplus.com.ar/
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/NICKHD/default.mpd|drm=clearkey&license=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=47b4a3e3b2d5bbd54143a6af43268bbd&key%5B%5D=294848a1c20273b5546c204b117fd7fe
 
 
