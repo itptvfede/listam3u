@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="TN Tendencias" tvg-logo="https://i.ibb.co/NLWRMrb/todo-noticias.png" group-title="TV ARGENTINA", TN Tendencias
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=3e6b5789d099cdb3e192486bea627a05&keyid%5B%5D=2f0c81461adf4520971cf45ee5036d91
+https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd
 
 #EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="TV ARGENTINA", TELEFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
