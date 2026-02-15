@@ -38,7 +38,7 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 https://mplus.pontiscloud.com/bpk-tv/TNTSports/default/index.mpd
 
 #EXTINF:-1,CINE24
-https://app.viloud.tv:443/hls/channel/sep/4f2f4cd5a3f2876bc3cae2674a7189b7/low.m3u8
+https://app.viloud.tv/hls/channel/4f2f4cd5a3f2876bc3cae2674a7189b7.m3u8
 
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7 OP1" tvg-logo="https://i.ibb.co/SXV2RPmC/7.jpg",SIMPSONS 24/7 OP1
