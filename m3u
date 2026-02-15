@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="TYC SPORTS",TYC SPORTS
-http://45.170.130.224:8000/play/a020/index.m3u8?hls
+http://209.14.108.65:8000/play/a01c/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="Multivisión Federal" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2881/CH_LOGO/400/400/0/0/92683155075202.png",Multivisión Federal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
