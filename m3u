@@ -2,12 +2,11 @@
 
 
 
+#EXTINF:-1 tvg-name="TN OP2",TN OP2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkeyhttps://ia800803.us.archive.org/18/items/lista.json/lista.json
+#KODIPROP:inputstream.adaptive.license_key=
+https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd
 
-#EXTINF:-05 tvg-id="Encuentro.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="Culturales", Encuentro
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a95c500ecf15429c35824bb1314d911:22337e3f32cef5b0b8b5888c38860a57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 #EXTINF:-1 tvg-name="TYC SPORTS",HBO FAMILY
