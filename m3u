@@ -105,7 +105,7 @@ https://bvclive1.boldmss.com/A24/A24_BVC.isml/A24.mpd
 #KODIPROP:inputstream.adaptive.license_key=090604e982684762a8f8bf752c110b61:bd39fbeeb70aae5322fc163831cc2f8a
 https://bvclive1.boldmss.com/TYC_SPORTS_2/TYC_SPORTS_2_BVC.isml/TYC_SPORTS_2.mpd
 
-#EXTINF:-01 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://i.ibb.co/3YjSZHF8/t.png" group-title="🇦🇷 ARG | CANALES NACIONALES",TN
+#EXTINF:-01 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://ibb.co/6c48shsL" group-title="🇦🇷 ARG | CANALES NACIONALES",TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
