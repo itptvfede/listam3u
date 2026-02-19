@@ -3,11 +3,8 @@
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="FÚTBOL", ESPN 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d5b973772433ce07c8999aa659ea48c:6b17538810f1dd4485f174dcc204872c
+#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
 https://smt-usr-edge05.sensa.com.ar/nPVR/eds/120_TVPublica_T_202602192059-202602192201_ON_Anevia1/live_dash_cld/TVPublica.mpd
-
-
-
 
 
 
