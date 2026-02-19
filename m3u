@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="BitMe" tvg-logo="https://i.postimg.cc/SKwKgsvt/bitme.png",BitMe
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/BITMEHD/default.mpd
+
+
+
 #EXTINF:-01 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://i.ibb.co/twbzCfCF/tn.png" group-title="🇦🇷 ARG | CANALES NACIONALES",TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
