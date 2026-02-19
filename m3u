@@ -1,12 +1,10 @@
 #EXTM3U
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="TN" tvg-name="TN" tvg-logo="https://ibb.co/6c48shsL" group-title="ARG | NACIONALES",TN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=CLAVEID:CLAVEKEY
-https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
-
+#EXTINF:-1 tvg-id="TN.uy" tvg-name="TN" tvg-logo="https://i.ibb.co/twbzCfCF/tn.png" group-title="🇦🇷 ARG | Noticias",TN
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/5184/CH_LOGO/400/400/0/0/63174717076158.png",ARGENTINA 12
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
