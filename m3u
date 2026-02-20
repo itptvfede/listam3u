@@ -422,14 +422,6 @@ https://smt-usr-edge05.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://smt-usr-edge05.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-09  tvg-id="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/k6hbBfjV/D.jpg" group-title="DOCUMENTALES", DISCOVERY CHANNEL
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream.adaptive.license_key=74ec986b3388c62f5fa7c551e225d0b8:9327821de5eace5508cf573778c8c3c3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/nPVR/eds/64_DiscoveryChannel_T_202602200147-202602200325_ON_Anevia1/live_dash_cld/DiscoveryChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-09  tvg-id="TNT CINE" tvg-logo="https://i.ibb.co/sM1N5TV/u.png" group-title="CINE", TNT CINE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -480,7 +472,7 @@ https://smt-usr-edge05.sensa.com.ar/nPVR/eds/267_StudioUniversal_T_202602201729-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://smt-usr-edge05.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-09  tvg-id="ADULT SWIM"ADULT SWIM tvg-logo="https://i.ibb.co/5XMnMGjb/a.png" group-title="INFANTILES", camal 7
+#EXTINF:-09  tvg-id="ADULT SWIM"ADULT SWIM tvg-logo="https://i.ibb.co/5XMnMGjb/a.png" group-title="INFANTILES",ADULT SWIM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
