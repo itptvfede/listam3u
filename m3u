@@ -106,12 +106,6 @@ http://186.0.181.237/Live/6fb5915940cdb1605ec7f4ecd4308091/online-24-7.playlist.
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
-
-#EXTINF:-1 tvg-name="ARGENTINA12 OP2",ARGENTINA12 OP2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3feecb729a34e7cb0123c25dd890362:a0ce3b8a17ccfb82f7eef4d65710d0f0
-https://bvclive1.boldmss.com/AR12/AR12_BVC.isml/AR12.mpd
-
 #EXTINF:-01 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://ibb.co/6c48shsL" group-title="🇦🇷 ARG | CANALES NACIONALES",TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
