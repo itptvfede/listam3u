@@ -464,7 +464,7 @@ https://smt-usr-edge05.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChann
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://smt-usr-edge05.sensa.com.ar/nPVR/eds/267_StudioUniversal_T_202602201729-202602201906_ON_Anevia1/live_dash_cld/StudioUniversal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-09  tvg-id="HISTORY" tvg-logo="https://i.ibb.co/sM1N5TV/u.png" group-title="DOCUMENTALES",HISTORY
+#EXTINF:-09  tvg-id="HISTORY" tvg-logo="https://i.ibb.co/dJcCVxfp/b.jpg" group-title="DOCUMENTALES",HISTORY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
