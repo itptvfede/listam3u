@@ -390,13 +390,7 @@ https://smt-usr-edge05.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=ht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://smt-usr-edge05.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-09  tvg-id="TYC" tvg-logo="https://i.ibb.co/DDBGDP6t/TYC.png" group-title="DEPORTES", TYC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://smt-usr-edge05.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 #EXTINF:-09  tvg-id="SONY CHANNEL" tvg-logo="https://i.ibb.co/609bLBCN/s.jpg" group-title="CINE",SONY CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
