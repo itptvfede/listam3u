@@ -513,13 +513,7 @@ https://smt-usr-edge05.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://smt-usr-edge05.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-09  tvg-id="CRONICA" logo="https://i.ibb.co/tPKyY9MW/89.jpg" group-title="NACIONALES",CRONICA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://smt-usr-edge05.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 #EXTINF:-09  tvg-id="TELEFE" logo="https://i.ibb.co/tPKyY9MW/89.jpg" group-title="NACIONALES",TELEFE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -578,13 +572,7 @@ https://smt-usr-edge05.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=
 https://smt-usr-edge05.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-#EXTINF:-09  tvg-id="espn premium" tvg-logo="https://i.ibb.co/d0kZNNWd/ar12.png" group-title="pack futbol",espn premium
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://smt-usr-edge05.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 
 
