@@ -488,7 +488,7 @@ https://smt-usr-edge05.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://smt-usr-edge05.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-09  tvg-id="CINE"-logo="https://i.ibb.co/5XMnMGjb/a.png" group-title="INFANTILES",CINECANAL
+#EXTINF:-09  tvg-id="CINE"-logo="https://i.ibb.co/1YNR3Fgd/56.jpg" group-title="INFANTILES",CINECANAL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
