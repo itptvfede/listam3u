@@ -24,7 +24,7 @@ http://38.188.48.83:8000/play/a0og/index.m3u8?hls
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 
 #EXTM3U
-#EXTINF:-1,FMH FAMILY
+#EXTINF:-1, ASTRA FMH FAMILY
 http://187.102.195.131:8000/play/a01f/index.m3u8?hls
 
         SIMPSONS 24/7
@@ -58,7 +58,7 @@ https://mplus.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|re
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://mplus.pontiscloud.com/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-003  tvg-id="TYC" tvg-logo="https://i.ibb.co/DDBGDP6t/TYC.png" group-title="DEPORTES", TYC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -601,10 +601,7 @@ https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-64 tvg-name="TNT CINE" tvg-logo="https://i.ibb.co/tMJL9gzy/7.png",TNT CINE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
-https://lilac01.pontiscloud.com/eds/TNT/live_dash_cld/TNT.mpd
+
 
     
 
