@@ -31,6 +31,11 @@ http://187.102.195.131:8000/play/a01f/index.m3u8?hls
 #EXTINF:-1, ASTRA A24 
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
+#EXTM3U
+#EXTINF:-1, ASTRA DISCOVERY CHANNEL
+http://38.188.48.83:8000/play/a0pb/index.m3u8?hls
+
+
         SIMPSONS 24/7
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7 OP1" tvg-logo="https://i.ibb.co/SXV2RPmC/7.jpg",SIMPSONS 24/7 OP1
