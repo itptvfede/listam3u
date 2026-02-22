@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+
+       (SENGUNDA LISTA EN CONTRUCION )
+
 #EXTINF:-01 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://i.ibb.co/twbzCfCF/tn.png" group-title="🇦🇷 ARG | CANALES NACIONALES",TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
@@ -317,7 +321,7 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
 https://lilac01.pontiscloud.com/live/eds/TNT/live_dash_cld/TNT.mpd
 
-    SEGUNDA LISTA 
+    
 
 
 
