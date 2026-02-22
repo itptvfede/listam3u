@@ -15,16 +15,6 @@ https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://playe
 https://mplus.pontiscloud.com/bpk-tv/Argentina12/default/index.mpd
 
 
-
-#EXTINF:-1 tvg-name="TYC SPORTS",HBO FAMILY
-http://191.97.111.38:8000/play/a07p/index.m3u8?hls
-
-#EXTINF:-1 tvg-name="TYC SPORTS",ESPN
-http://179.1.240.202:8000/play/a05a
-
-EXTINF:-1 tvg-name="TYC SPORTS",ESPN
-https://video.twimg.com/amplify_video/1797150287292981248/pl/-GLBpWJuiNKBrdvp.m3u8
-
 #EXTINF:-1 tvg-name="Multivisión Federal" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2881/CH_LOGO/400/400/0/0/92683155075202.png",Multivisión Federal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -32,7 +22,6 @@ https://video.twimg.com/amplify_video/1797150287292981248/pl/-GLBpWJuiNKBrdvp.m3
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://webclient.antinaplayplus.com.ar/
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)
 https://mplus.pontiscloud.com/bpk-tv/Multivision/default/index.mpd
-
 
 #EXTINF:-1 tvg-name="TN Tendencias" tvg-logo="https://i.ibb.co/NLWRMrb/todo-noticias.png" group-title="TV ARGENTINA", TN Tendencias
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -328,8 +317,7 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
 https://lilac01.pontiscloud.com/live/eds/TNT/live_dash_cld/TNT.mpd
 
-
-
+    SEGUNDA LISTA 
 
 
 
