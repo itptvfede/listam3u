@@ -107,7 +107,7 @@ https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd?|refere
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
 #KODIPROP:inputstream.adaptive.license_key=61635507689b4c74568928cc0f5d82d9:34f254be5f3d6a8ab44c28b4cb2e5a4a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://smt-usr-edge05.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-006  tvg-id="HBO FAMILY" tvg-logo="https://i.ibb.co/FbJtw0K2/HBO.png" group-title="HBO FAMILY", HBO FAMILY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
