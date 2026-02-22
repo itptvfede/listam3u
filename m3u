@@ -599,7 +599,7 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #EXTINF:-64 tvg-name="TNT CINE" tvg-logo="https://i.ibb.co/tMJL9gzy/7.png",TNT CINE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
-https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd
+https://smt-usr-edge05.sensa.com.ar/eds/TNT/live_dash_cld/TNT.mpd
 
     
 
