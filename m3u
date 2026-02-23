@@ -617,8 +617,11 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://smt-edge03.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
-
+#EXTINF:-39, HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://smt-edge03.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
