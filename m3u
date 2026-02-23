@@ -1,13 +1,9 @@
 #EXTM3U
 
-
-#EXTINF:-004  tvg-id="CRONICA" logo="https://i.ibb.co/bgnRZK6h/cr.png" group-title="NACIONALES",prubea
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-name="PRUEBA",TOONCATS PRUEBA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/&webtoken=1.0
-#KODIPROP:inputstream.adaptive.license_key=ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyMDQyNDk3Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL25QVlIvYzdlZHMvNzBfVE5fVF8yMDI2MDIyMzE1NTUtMjAyNjAyMjMxODE1X09OX0FuZXZpYTcvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImM2YjE5M2UxNWIzNmQ1ZTAiLCJzZXNzaW9uX2lkIjoiODgzODY4MTUtMTc3MTg2OTY5Ny01MDMiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODgzODY4MTUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3OCIsInNvdXJjZXMiOls4NSwxNDQsMTc0LDg4XX0=.mWOnVp_yMX6KiPant3GXniVbnc9mASi39bRmBpes2cvtSO4OUSONVXFm3SZ4LYODQCHZYwS7Dbx820Vntfn4Cg==/nPVR/c7eds/70_TN_T_202602231555-202602231815_ON_Anevia7/SA_Live_dash_enc/TodoNoticias.mpd?|referer=https://portal.app.flow.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
+https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvYzZlZHMvVG9vbmNhc3QvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzaXAiOiIxOTAuMTI0LjE1My41OCIsInNlc3Npb25faWQiOiI4ODM4NjgxNS0xNzcxODczNjk0LTM5NSIsImRldmljZV9pZCI6Ijg4Mzg2ODE1IiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImNpIjoiQVItRCIsImlhdCI6MTc3MTg3MzY5NCwiZXhwIjoxNzcxODczNzU0fQ.TcI_9g5U4KAJkuiR3eQPrpAt5eDePds_jjjnhdCWorFLIW7RqWLxJSksLcnRiu7yWjraXqPxbVv-4LjX2Arskw
 
 
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",Eventos ARG
@@ -271,11 +267,6 @@ https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-name="MEGAZINE",CIUDAD MAGAZINE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzc5NzYzIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvTWFnYXppbmUvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzRjNmJjMDQxZjJjZjRlYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjYyIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.G1AxHB-VA6TK-8Y9YDcD0jV12IPFK3tr_mEAwaBfoR4NFEYac9elU6nxIbgDMMMWO3ToluIClSM5Lqh0Eh9ZyA==/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd
 
 #EXTINF:-1 tvg-name="A24",A24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -631,6 +622,16 @@ https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https:/
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
+
+
+
+
+
+
+
 
 
 
