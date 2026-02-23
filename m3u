@@ -118,7 +118,6 @@ https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd?|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
 #EXTINF:-009  tvg-id="FX" logo="https://i.ibb.co/S7dH8zVX/fx.png" group-title="CINE",FX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
