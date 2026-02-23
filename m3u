@@ -1,9 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="PRUEBA",TOONCATS PRUEBA
+#EXTM3U
+
+#EXTINF:-1 tvg-id="america24" tvg-name="America 24" group-title="Noticias",America 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
-https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvYzZlZHMvVG9vbmNhc3QvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzaXAiOiIxOTAuMTI0LjE1My41OCIsInNlc3Npb25faWQiOiI4ODM4NjgxNS0xNzcxODczNjk0LTM5NSIsImRldmljZV9pZCI6Ijg4Mzg2ODE1IiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImNpIjoiQVItRCIsImlhdCI6MTc3MTg3MzY5NCwiZXhwIjoxNzcxODczNzU0fQ.TcI_9g5U4KAJkuiR3eQPrpAt5eDePds_jjjnhdCWorFLIW7RqWLxJSksLcnRiu7yWjraXqPxbVv-4LjX2Arskw
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/itptvfede/clearkey/refs/heads/main/america24clearkey.json
+https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
+
+
 
 
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",Eventos ARG
