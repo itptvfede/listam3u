@@ -124,7 +124,7 @@ https://smt-usr-edge05.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.m
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
 #KODIPROP:inputstream.adaptive.license_key=78396693b172158176c33c28f2e7c0b8:1e251112819a34ed691bc3881c64ea4d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://mplus.pontiscloud.com/live/eds/StarChannel/live_dash_cld/StarChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://smt-usr-edge05.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd/live_dash_cld/StarChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-008  tvg-id="CANALSPACE" tvg-logo="https://i.ibb.co/XfYSNk9b/s.png" group-title="CINE",CANAL SPACE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -619,6 +619,15 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+ser-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+
+
+
+
+
+
 
 
 
