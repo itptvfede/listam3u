@@ -1,6 +1,15 @@
 #EXTM3U
 
 
+#EXTINF:-004  tvg-id="CRONICA" logo="https://i.ibb.co/bgnRZK6h/cr.png" group-title="NACIONALES",prubea
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyMDQyNDk3Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL25QVlIvYzdlZHMvNzBfVE5fVF8yMDI2MDIyMzE1NTUtMjAyNjAyMjMxODE1X09OX0FuZXZpYTcvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImM2YjE5M2UxNWIzNmQ1ZTAiLCJzZXNzaW9uX2lkIjoiODgzODY4MTUtMTc3MTg2OTY5Ny01MDMiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODgzODY4MTUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3OCIsInNvdXJjZXMiOls4NSwxNDQsMTc0LDg4XX0=.mWOnVp_yMX6KiPant3GXniVbnc9mASi39bRmBpes2cvtSO4OUSONVXFm3SZ4LYODQCHZYwS7Dbx820Vntfn4Cg==/nPVR/c7eds/70_TN_T_202602231555-202602231815_ON_Anevia7/SA_Live_dash_enc/TodoNoticias.mpd?|referer=https://portal.app.flow.com.ar/&webtoken=1.0
+
+
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",Eventos ARG
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 
