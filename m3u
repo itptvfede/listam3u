@@ -622,7 +622,7 @@ https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=https://p
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://webclient.antinaplayplus.com.ar/|Origin=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=8f9261beee045d06c325c380b9275e15:89976f64ccde3509e15e38c9196a529f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
-https://mplus.pontiscloud.com/bpk-tv/Multivision/default/index.mpd
+https://cdn.sensa.com.ar/bpk-tv/Multivision/default/index.mpd
 
 
 
