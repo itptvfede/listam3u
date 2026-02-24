@@ -109,13 +109,6 @@ https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd?|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-015  tvg-id="EUROPA EUROPA" logo="https://i.ibb.co/3yQCfnSj/EE.jpg" group-title="CINE",EUROPA EUROPA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream.adaptive.license_key=01c6295e3fc98352427941dc1015605a:bac9c97340df0b813a9f08c54880feb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://mplus.pontiscloud.com/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-016  tvg-id="EURO CHANNEL" logo="https://i.ibb.co/b5P3ppXB/1.jpg" group-title="CINE",EURO CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
