@@ -620,7 +620,7 @@ https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd?|referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/3YpTHjKy/Cn.png" group-title="INFANTILES",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/hJhqyvcW/CN.png" group-title="INFANTILES",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/|webtoken=1.0
