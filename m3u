@@ -604,7 +604,7 @@ https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd?|referer=htt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="ADULT SWIM" tvg-logo="https://i.ibb.co/5XMnMGjb/a.png" group-title="INFANTILES",ADULT SWIM
+#EXTINF:-1 tvg-id="ADULT SWIM" tvg-logo="https://i.ibb.co/nqdWRFCD/A.jpg" group-title="INFANTILES",ADULT SWIM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/|webtoken=1.0
