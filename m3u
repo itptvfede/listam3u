@@ -622,7 +622,7 @@ https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer
 https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-#EXTINF:-020 tvg-id="TOONCAST" tvg-logo="https://i.ibb.co/tPKyY9MW/89.jpg" group-title="INFANTILES",TOONCAST
+#EXTINF:-020 tvg-id="TOONCAST" tvg-logo="https://i.ibb.co/j9GjVWKs/TC.jpg" group-title="INFANTILES",TOONCAST
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/
