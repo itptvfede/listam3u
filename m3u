@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="TNT SPORTS",FLOW TNT SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/|Origin=https://portal.app.flow.com.ar/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyMzExNjYxIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOTJjZDQ1NzMxYjY4NWYwMCIsInNlc3Npb25faWQiOiI4ODQ1MzczNi0xNzcyMTM4ODYwLTU0MCIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyMCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.8mbxZoPADsGV976UNs0dc9B6qBjBZea_a2ImyWfkyl9FkIV20TWsn4yVCUxhFjVjEegg8hSfkyg2WgVpit7aUQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL",FLOW DISCOVERY CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
