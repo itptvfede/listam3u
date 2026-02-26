@@ -623,11 +623,13 @@ https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL", FLOW DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/
 https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyMjQzNTI0Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRGlzY292ZXJ5SEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzZDE2N2Q5OTYyMGNkNDEiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjA3MDcyNC03NjYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDAiLCJzb3VyY2VzIjpbODUsODYsODhdfQ==.XjsN68nvVPvCDGuNNJgsRQKgnMpFW72luGzLt2ayufBrF9Fye2eGis9N6kztxBnuL_4dwhQkZHBoek3eU1fzhw==/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
-
 
 
 
