@@ -145,11 +145,6 @@ https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-name="A24", FLOW A24
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvYzdlZHMvQW1lcmljYTI0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJzZXNzaW9uX2lkIjoiODg0MTE2NTUtMTc3MTk0MDAzMy0yMjQiLCJkZXZpY2VfaWQiOiI4ODQxMTY1NSIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJjaSI6IkFSLUQiLCJpYXQiOjE3NzE5NDAwMzMsImV4cCI6MTc3MTk0MDA5M30.PEshE_GtbbTXZTauQardVE6b_a5sFagYGqw_e1lWjLZtgL1sckDx1HhEIJCbF7Yl7wwaMlhBfSuz2OhpIt6FQg
-
 
  (SENGUNDA LISTA EN CONTRUCION )
 
@@ -628,8 +623,10 @@ https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
-
+#EXTINF:-1 tvg-name="A24", FLOW DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
+https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyMjQzMDk0Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRGlzY292ZXJ5SEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjUzYTlhYWYwNmVhODYyOWMiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjA3MDI5My03NDYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyOTYiLCJzb3VyY2VzIjpbODUsODYsODhdfQ==.0EGhUM4RqobXDmgKlKNqrwhbwoxq1pwUddNVqYujLqNvNeci0wAST46qUR8R393mDiLnAPq-7Ny0OaW2lsbUhA==/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
 
 
 
