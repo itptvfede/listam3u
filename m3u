@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="ESPN PREMIUM",FLOW ESPN PREMIUM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/|Origin=https://portal.app.flow.com.ar/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyMzEyMDIzIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxODc4ZTI4MTAwYTIwZGZlIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzIxMzkyMjQtOTIwIiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTAwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.dTY_nyjdc272218j4kBg6IZ9vStMYumhH32wU6xZwDhTwzkPXrvxKJkzQW0JFmC6FwcHhFOaBfWId9aMCSADsQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
 #EXTINF:-1 tvg-name="TNT SPORTS",FLOW TNT SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
