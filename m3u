@@ -609,7 +609,7 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=3.0
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
