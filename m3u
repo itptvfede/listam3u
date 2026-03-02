@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL",FLOW DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="FOX SPORTS PREMIUM HD" group-title="Deportes",ESPN AR PREMIUM HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/|Origin=https://portal.app.flow.com.ar/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNpcCI6IjE5MC4xMjQuMTUzLjU4Iiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzIxNTA1MjItNTk3IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiY2kiOiJBUi1EIiwiaWF0IjoxNzcyMTUwNTIyLCJleHAiOjE3NzIxNTA1ODJ9.Fm5HTdkuBbqMA85LtKzqzmkgM_bZz6gwxDjIkpAP4KB-a6I5I2RaOSuIOPWJV38PnInN7Iv7O_byiwtXI3O1nQ
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNTY4NDgxIiwic2lwIjoiMTg2LjM5LjAuODQiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmNDA0OGRkZmQ3NTNkMmI0Iiwic2Vzc2lvbl9pZCI6Ijg4NDk1NzQ1LTE3NzIzOTU2ODEtNjU4IiwiY2xpZW50X2lkIjoiMjI2NTEyLS0yMjc0NzEiLCJkZXZpY2VfaWQiOiI4ODQ5NTc0NSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.zXGNJzAq5YTt6Zh39M5yLYfjCzixba86GrIjlydXgvNrfYBLQKZCnxefCegqbEZQKq_cfFClkHa2R3uTLy_eyQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",TYC 
 http://45.184.111.107:8000/play/a0cx/index.m3u8?hls
