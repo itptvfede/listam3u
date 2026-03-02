@@ -590,7 +590,7 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-name="tn" group-title="NOTICIAS",flow tn
+#EXTINF:-1 tvg-name="tn" group-title="NOTICIAS",FLOW TN NOTICIAS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -598,14 +598,14 @@ https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https
 https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNTkyNTkyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwM2E4NDY5MTI2ODM0MzliIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI0MTk3OTItNzQxIiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiNTgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.CgD2k9gGFDQiXXE78iF_UMADTJiXYG0VQx-AfLvvPJVowx8GQDKHZk_FSgeW8CYBaibNcFP3TZjUY1LrIGu8BA==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
 
-#EXTINF:-1 tvg-name="flow discovery channel" group-title="DOCUMENTALES",discovery channel
+#EXTINF:-1 tvg-name="flow discovery channel" group-title="DOCUMENTALES",FLOW DISCOVERY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
 https://edge-live31-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNTg2Nzk3Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRGlzY292ZXJ5SEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMzMGRmYTY4ZTVlZjFhZmQiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjQxNDAxMy0zOTgiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI5NCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.d8S5-Ta_ZOiKFROGAH9p0SgXmj8RQTwSjhEtV6Jw4cAuKiUgl4JJ0mLPAd4fBOgmlGP_R446F51yzbuWXW5VVg==/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
-#EXTINF:-1 tvg-name="tnt sports" group-title="Deportes", flow tnt sports
+#EXTINF:-1 tvg-name="tnt sports" group-title="Deportes",FLOW TNT SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -632,6 +632,19 @@ https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
 https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNjM0NjA4Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvTWFnYXppbmUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjIzOGQ4NDg3MGYxOGU5ZGIiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjQ2MTgyNC0yODYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMzkiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.xoc7Dklr5GhY3MFCexnAJhNOp4yobtcL3qVSFclvQSoGaXl7b3rK1P2fNZC7clJqbF6YfZu4ZbgWRJ8VaS0sHQ==/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+#EXTINF:-1 tvg-name="flow sony " group-title="CINE",FLOW TELEFE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNjM2MDk4Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL25QVlIvYzZlZHMvNjlfVEVMRUZFX1RfMjAyNjAzMDIxMjI1LTIwMjYwMzAyMTUwMF9PTl9BbmV2aWE2L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwMjQ1OTU5MjA1MDU5YTIwIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI0NjMyOTctNzQxIiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiNzIiLCJzb3VyY2VzIjpbODUsMTQ0LDE3NCw4OF19.27_8AoZLSJV0yzwBjkE-RbjNJ1QhRqRcWIiKcgpxiGoVFKYT-Ygodj6PjHMzXJrpYV3vZeqpjewb_mjrjglF3Q==//nPVR/c6eds/69_TELEFE_T_202603021225-202603021500_ON_Anevia6/SA_Live_dash_enc/TelefeHD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+
+
+
+
+
 
 
 
