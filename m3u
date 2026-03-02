@@ -1,31 +1,6 @@
 #EXTM3U
 
 
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXTVLCOPT:clock-synchro=0
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:no-audio-desync
-#EXTVLCOPT:avcodec-hw=auto
-#EXTVLCOPT:avcodec-fast
-#EXTINF:-1 tvg-id="Vh8xmLBJtR8" tvg-logo="https://i.ytimg.com/vi/Vh8xmLBJtR8/hqdefault.jpg" group-title="LATINOS | TV" group-logo="https://tinyurl.com/logom3ukodi",Canal Siete EN VIVO
-https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_player.php?video_id=Vh8xmLBJtR8&pp=uAQw0gcJCSEBLa19xc3H
-
-
-#EXTINF:-1 tvg-name="FOX SPORTS PREMIUM HD" group-title="Deportes",TN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNTkyNTkyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwM2E4NDY5MTI2ODM0MzliIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI0MTk3OTItNzQxIiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiNTgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.CgD2k9gGFDQiXXE78iF_UMADTJiXYG0VQx-AfLvvPJVowx8GQDKHZk_FSgeW8CYBaibNcFP3TZjUY1LrIGu8BA==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-
-
 #EXTINF:-1 tvg-name="FOX SPORTS PREMIUM HD" group-title="Deportes",ESPN AR PREMIUM HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -623,7 +598,15 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-name="FOX SPORTS PREMIUM HD" group-title="Deportes",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="FLOW TN " group-title="NOTICIAS",TN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNTkyNTkyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwM2E4NDY5MTI2ODM0MzliIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI0MTk3OTItNzQxIiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiNTgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.CgD2k9gGFDQiXXE78iF_UMADTJiXYG0VQx-AfLvvPJVowx8GQDKHZk_FSgeW8CYBaibNcFP3TZjUY1LrIGu8BA==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+
+#EXTINF:-1 tvg-name="FLOW DISCOVERY CHANNEL" group-title="DOCUMENTALES",DISCOVERY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
