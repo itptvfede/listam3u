@@ -1,27 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ESPN PREMIUM",FLOW ESPN PREMIUM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/|Origin=https://portal.app.flow.com.ar/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://qn-01282-slo-1-05-2---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyMzIzMzI0Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOTA0ZDRjMjk4MjY5YWNhNiIsInNlc3Npb25faWQiOiI4ODQ1MzczNi0xNzcyMTUwNTIyLTU5NyIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.bAUKVOyCJsipFGZoZM2aQj9zL1E66CXZbSqsFsW0LGtb9riFnSE8YdKdzQDpqWSMnhpAOAoWsea1ewsjY4gmjQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-
-
-#EXTINF:-1 tvg-name="TNT SPORTS",FLOW TNT SPORTS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/|Origin=https://portal.app.flow.com.ar/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNpcCI6IjE5MC4xMjQuMTUzLjU4Iiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzIxNTA1MjItNTk3IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiY2kiOiJBUi1EIiwiaWF0IjoxNzcyMTUwNTIyLCJleHAiOjE3NzIxNTA1ODJ9.Fm5HTdkuBbqMA85LtKzqzmkgM_bZz6gwxDjIkpAP4KB-a6I5I2RaOSuIOPWJV38PnInN7Iv7O_byiwtXI3O1nQ
-
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL",FLOW DISCOVERY CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/|Origin=https://portal.app.flow.com.ar/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-cdn.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyMjQzMDk0Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRGlzY292ZXJ5SEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjUzYTlhYWYwNmVhODYyOWMiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjA3MDI5My03NDYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyOTYiLCJzb3VyY2VzIjpbODUsODYsODhdfQ==.0EGhUM4RqobXDmgKlKNqrwhbwoxq1pwUddNVqYujLqNvNeci0wAST46qUR8R393mDiLnAPq-7Ny0OaW2lsbUhA==/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
-
+https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNpcCI6IjE5MC4xMjQuMTUzLjU4Iiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzIxNTA1MjItNTk3IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiY2kiOiJBUi1EIiwiaWF0IjoxNzcyMTUwNTIyLCJleHAiOjE3NzIxNTA1ODJ9.Fm5HTdkuBbqMA85LtKzqzmkgM_bZz6gwxDjIkpAP4KB-a6I5I2RaOSuIOPWJV38PnInN7Iv7O_byiwtXI3O1nQ
 
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",TYC 
 http://45.184.111.107:8000/play/a0cx/index.m3u8?hls
