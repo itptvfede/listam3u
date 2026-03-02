@@ -662,7 +662,12 @@ https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
-https://sl-flow-edge-02.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?tk=eyJraWQiOiJzbC1mbG93LWVkZ2UtMDIiLCJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImlhdCI6MTc3MjQ4OTI0MywibWF4X2V4cCI6MTc3MjY2MjM0MywiZXhwIjoxNzcyNDg5NTQzfQ.bNXo75ic8gWxLjw1QtYjMsZ6LikQdxxkeew1nFXM26I==.hWgmWFYEt1U0-EPc6X5rd_D70IZn1R0c6y0VlzuAngL7-u6tBFrX0mO3dLoqKKz8Yte8K3BSrKPaMW4lMKuVaQ==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+https://sl-flow-edge-02.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?tk=eyJraWQiOiJzbC1mbG93LWVkZ2UtMDIiLCJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImlhdCI6MTc3MjQ4OTI0MywibWF4X2V4cCI6MTc3MjY2MjM0MywiZXhwIjoxNzcyNDg5NTQzfQ.bNXo75ic8gWxLjw1QtYjMsZ6LikQdxxkeew1nFXM26I==/cdn-balancer/v1/live/c3eds/Space/SA_Live_dash_enc/Space.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+
+
+
+
 
 
 
