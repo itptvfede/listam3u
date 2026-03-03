@@ -665,14 +665,6 @@ https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNjU1MjE1Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRk9YSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVjMmE1ZmRiOWQ4MjE2NDkiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjQ4MjQxNC0zNDMiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3NyIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.hWgmWFYEt1U0-EPc6X5rd_D70IZn1R0c6y0VlzuAngL7-u6tBFrX0mO3dLoqKKz8Yte8K3BSrKPaMW4lMKuVaQ==/    
 https://sl-flow-edge-01.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?tk=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InNsLWZsb3ctZWRnZS0wMSJ9.eyJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImlhdCI6MTc3MjQ5Njk3MiwiZXhwIjoxNzcyNTA3NzcyLCJtYXhfZXhwIjoxNzcyNjY5ODkxLCJyZW5ld19jbnQiOjJ9.cCm5fIltqSo_QOKrT-A7ZhpxFijV6lOZ4tBHShZHl0Y==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
-#EXTINF:-1 tvg-name="TNT CINE" oup-title="CINE",SPACE FLOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
-https://sl-flow-edge-02.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?tk=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InNsLWZsb3ctZWRnZS0wMiJ9.eyJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImlhdCI6MTc3MjUwMjMwNCwiZXhwIjoxNzcyNTEzMTA0LCJtYXhfZXhwIjoxNzcyNjc1MjE3LCJyZW5ld19jbnQiOjJ9.s9gYp0cRbaW_Zp7TkilxvDF94hy0uQrHVY8RG2b2LV8
-
-
 #EXTINF:-1 tvg-name="TNT CINE" group-title="CINE",TNT CINE FLOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
