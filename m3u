@@ -10,8 +10,7 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.flow.com.ar/&Origin=https://www.flow.com.ar
-https://sl-flow-edge-02.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2Nkbi1iYWxhbmNlci92MS9saXZlL2MzZWRzL1NwYWNlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjU3NzUwOS02MzgiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJjaSI6IkFSLUQiLCJpYXQiOjE3NzI1Nzc1MDksImV4cCI6MTc3MjU3NzU2OX0.YLEAfPd6pflQnLszZKO4-9VFDNn4d1hhn5ovRSX4fzvfd3a1aPPd9VRoDqXw470kUDeFvpmTVEFEbVpNPFHIOQ
-
+https://sl-flow-edge-02.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?
 
 
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",TYC 
