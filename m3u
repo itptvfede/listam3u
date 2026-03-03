@@ -8,8 +8,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
-https://sl-flow-edge-02.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?tk=eyJraWQiOiJzbC1mbG93LWVkZ2UtMDIiLCJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtYXhfZXhwIjoxNzcyNzUwNjEwLCJleHAiOjE3NzI1Nzc4MTAsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwiaWF0IjoxNzcyNTc3NTEwfQ.heNH2npcp5B12vgcL8YPvFNcaAUXh-tfjglk_oUjVXg==/cdn-balancer/v1/live/c3eds/Space/SA_Live_dash_enc/Space.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
+https://sl-flow-edge-02.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?tk=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InNsLWZsb3ctZWRnZS0wMiJ9.eyJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImlhdCI6MTc3MjU3OTA5OSwiZXhwIjoxNzcyNTg5ODk5LCJtYXhfZXhwIjoxNzcyNzUyMDE2LCJyZW5ld19jbnQiOjJ9.M9WH2-PpkVo98iehMqlzPpFj61S_UpSd_KAkc76LAnQ
 
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",TYC 
 http://45.184.111.107:8000/play/a0cx/index.m3u8?hls
