@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTM3U
-
 #EXTINF:-1 group-title="TEST",TEST CLEARKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
