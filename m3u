@@ -3,7 +3,12 @@
 #EXTINF:-1,SIMPSONP 24/7 
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
 
-
+#EXTINF:-1 group-title="TEST",ESPN CLEARKEY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+https://qn-01282-slo-1-04-1---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODQwNTU3Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRVNQTjJIRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMTA3NGNjMTA4YmFhNTQ2NiIsInNlc3Npb25faWQiOiI4ODQ1MzczNi0xNzcyNjY3NzU3LTQ3MSIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.Cwcikn4B56RjosOMMhOoFCu659OtTx_jof2E3XJ9amOOgC1mJ4esG5Fx_QqjpqG9YcAOCFFBaTpFLCMxHwsEaQ==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
 #EXTINF:-1 group-title="TEST",ELTRECE CLEARKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -659,15 +664,6 @@ https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNjQzNDA3Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg3MmEwYjc0OWRiZDBlNDgiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjQ3MDYwOC0yMDEiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIyOTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.bAt1civMKybdWNfk6svs7JWZA4WoD-KeFJ0XeN70ZmhELWQzOlYxITL0P-oygdyadetBQ2qS20AYxt-skqscHQ==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-
-#EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN FLOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNjU0Njk1Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRVNQTjJIRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMTdmYzI0M2Y1ZWE1NTQ2MiIsInNlc3Npb25faWQiOiI4ODQ1MzczNi0xNzcyNDgxODM1LTg4OSIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.0U9eEQHAzU8LBn8Ec6YodK6JV3aRFILmKIkXkXuLG9qyCWMO4i6G7hcVBj_9szsPU-ERONfyU1fQRJ6FjQiQnA==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
 
 #EXTINF:-1 tvg-name="TNT CINE" group-title="CINE",TNT CINE FLOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
