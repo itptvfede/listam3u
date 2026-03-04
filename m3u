@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1,SIMPSONP 24/7 
+http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
+
+
 #EXTINF:-1 group-title="TEST",STAR CHANNEL CLEARKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
