@@ -1,26 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-name="C5N" group-title="NOTICIAS",C5N FLOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=  194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
-https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODE4MzA3Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvQzVOL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3ZjE1ZTBlNmIwMjllYzdiIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI2NDU1MjMtODA3IiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA2Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.gMy-ClaBQPVjuv0wIXASBGYQbgy68pDp42jKig3YTydLUo4KI083ZLwVCDl6VXSBrV1czY9kM1hZJzF4rLyCDQ==/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd   |Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",TYC 
 http://45.184.111.107:8000/play/a0cx/index.m3u8?hls
 
@@ -697,7 +676,13 @@ https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNzU1MzIyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVHlDU3BvcnQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYwYjMwNDk2MWFiYmEyYzQiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjU4MjUyMS01MDYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMjAiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.b_sSajP-EiTzCWTCSFPnDcaAkAIdegEBonbM4QGNbBqLWpfV7NKcQ-eNIKhOeg2x8P0VbLimXzUvEuJVyJ9k6Q==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
-
+#EXTINF:-020 tvg-id="TV PUBLICA" tvg-logo="https://i.ibb.co/Z68R4W19/TVP.jpg" group-title="NACIONALES",
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.Widevine
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
+https://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvYzZlZHMvVm9sdmVyL1NBX0xpdmVfZGFzaF9lbmMvIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjY0OTAyMS04MTMiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJjaSI6IkFSLUQiLCJpYXQiOjE3NzI2NDkwMjEsImV4cCI6MTc3MjY0OTA4MX0.MWT7b6HRClJ0zU8eBNgsvCuAaEjpo6y_JqGlqPw-X2L0kFRhu7e2VQ-L0CMPv5xL8iNqHrKKgXdnLUg5sVKTdw
 
 
 
