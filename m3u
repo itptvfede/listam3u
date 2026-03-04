@@ -577,6 +577,12 @@ https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://playe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-name="TODO NOTICIAS" group-title="NOTICIAS",TODO NOTICIAS FLOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= 7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODE0OTQ3Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmNWVjYTExZjRhNDNlZThlIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI2NDIxNDctNDQxIiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=._z7sJtAzTKPzrdT65TehBBJ94sCpBzRuL5iG_cRPCY1lrECawqD4uzE8wGeaegkxSpNeneMmSQk0X581fOZhqA==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd    |Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
 #EXTINF:-020 tvg-id="TELEFE" tvg-logo="https://i.ibb.co/gFtMSDv8/TELEFE.jpg" group-title="NACIONALES",
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -585,14 +591,6 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-name="TN NOTICIAS" group-title="NOTICIAS",TN NOTICIAS FLOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-https://edge-live13-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNTkyNTkyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwM2E4NDY5MTI2ODM0MzliIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI0MTk3OTItNzQxIiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiNTgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.CgD2k9gGFDQiXXE78iF_UMADTJiXYG0VQx-AfLvvPJVowx8GQDKHZk_FSgeW8CYBaibNcFP3TZjUY1LrIGu8BA==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
 
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="DOCUMENTALES",DISCOVERY CHANNEL FLOW 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -678,10 +676,6 @@ https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNzU1MzIyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVHlDU3BvcnQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYwYjMwNDk2MWFiYmEyYzQiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjU4MjUyMS01MDYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMjAiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.b_sSajP-EiTzCWTCSFPnDcaAkAIdegEBonbM4QGNbBqLWpfV7NKcQ-eNIKhOeg2x8P0VbLimXzUvEuJVyJ9k6Q==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
-#EXTINF:-1 tvg-name="TN FLOW" tvg-logo="https://i.ibb.co/NLWRMrb/todo-noticias.png" group-title="TV ARGENTINA", TN Tendencias
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd
 
 
 
