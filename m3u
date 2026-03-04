@@ -4,6 +4,18 @@
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
 
 
+
+
+
+#EXTINF:-1 group-title="TEST",SPACE CLEARKEY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04c
+https://edge-live02-sl.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?tk=eyJhbGciOiJIUzI1NiIsImtpZCI6InNsLWZsb3ctZWRnZS0wMiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImlhdCI6MTc3MjY2MzQ4NywibWF4X2V4cCI6MTc3MjgzNjU4NywiZXhwIjoxNzcyNjYzNzg3fQ.NvZvcjY7_LsjKAtd0W6EE8DUM5gNFngWq49G5fmAmSE
+
+
+
 #EXTINF:-1 group-title="TEST",STAR CHANNEL CLEARKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
