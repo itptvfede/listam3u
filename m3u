@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+#EXTM3U
+
+#EXTINF:-1 group-title="TEST",TEST CLEARKEY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ae8ccd0e7984f1a8a7e4a1c1f3b1abc:30303030303030303030303030303030
+https://storage.googleapis.com/shaka-demo-assets/angel-one-clearkey/dash.mpd
+
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",TYC 
 http://45.184.111.107:8000/play/a0cx/index.m3u8?hls
 
