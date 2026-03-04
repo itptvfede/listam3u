@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="TEST",STAR CHANNEL CLEARKEY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
+https://edge-live15-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODM0NDQzIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRk9YSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI0ZDAxNmZmYWI4M2JkODgiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjY2MTY2MC02NjYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=._WXXjZ8U_I1QYHHL0BUY0OEJSXNXUUji7_OLS_VaWe5qdhgWcsXHZ5aP620J1nbz4Zb-BlWCRaE068yx2gDjSg==/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
 #EXTINF:-1 group-title="TEST",MAGAZINE CLEARKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7,8 +13,6 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
 https://edge-live14-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODMzMzQwIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvTWFnYXppbmUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNkNWEyNTQ5NTNiYWE2YWQiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjY2MDU1Ni03MjQiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIyOTgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.4Uqp4PGOPhNXZKEi6IYM0E67rDsE5ImJ2cOlnGE8hk3NpBS_ziNvycdv2qwPM-jZkp-ekSghmm8VoEtHfmX06w==/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-
 
 
 #EXTINF:-1 group-title="TEST",DISCOVERY CLEARKEY
