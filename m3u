@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="TEST",DISCOVERY CLEARKEY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
+https://edge-live15-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODMxNjMyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRGlzY292ZXJ5SEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg0MjY0MjZjOWYxZjE2YjMiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjY1ODg0OS04ODQiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.srDr40MlQCSN9J-3V_63t_OKVENQp62J7wlSBMAjLOSe9XXwatHFujGqRjPxa_CLFapvaSsIx0mzPAzOhlGDaA==/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",TYC 
 http://45.184.111.107:8000/play/a0cx/index.m3u8?hls
