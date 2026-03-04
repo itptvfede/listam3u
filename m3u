@@ -1,19 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TN NOTICIAS" group-title="NOTICIAS",TN NOTICIAS FLOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODAyNDAyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNGEyMjJiZTY3NmI2ZmEwIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI2Mjk2MDItNDU5IiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.mDY47mGm56iudpxIhMHqydl2Jpchu_gZh2bjCDlFOFvEFDRVNbe6eyEPQCKMdSTxZnku3XM2Rp-_lpMxP_MRgA==/https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",TYC 
 http://45.184.111.107:8000/play/a0cx/index.m3u8?hls
 
@@ -671,14 +657,6 @@ https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
 https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNjU1MjE1Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRk9YSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVjMmE1ZmRiOWQ4MjE2NDkiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjQ4MjQxNC0zNDMiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3NyIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.hWgmWFYEt1U0-EPc6X5rd_D70IZn1R0c6y0VlzuAngL7-u6tBFrX0mO3dLoqKKz8Yte8K3BSrKPaMW4lMKuVaQ==/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
-#EXTINF:-1 tvg-name="STAR CHANNEL" group-title="CINE",SPACE FLOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
-https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNjU1MjE1Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRk9YSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVjMmE1ZmRiOWQ4MjE2NDkiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjQ4MjQxNC0zNDMiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3NyIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.hWgmWFYEt1U0-EPc6X5rd_D70IZn1R0c6y0VlzuAngL7-u6tBFrX0mO3dLoqKKz8Yte8K3BSrKPaMW4lMKuVaQ==/    
-https://sl-flow-edge-02.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?tk=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InNsLWZsb3ctZWRnZS0wMSJ9.eyJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImlhdCI6MTc3MjQ5Njk3MiwiZXhwIjoxNzcyNTA3NzcyLCJtYXhfZXhwIjoxNzcyNjY5ODkxLCJyZW5ld19jbnQiOjJ9.cCm5fIltqSo_QOKrT-A7ZhpxFijV6lOZ4tBHShZHl0Y==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
 #EXTINF:-1 tvg-name="TNT CINE" group-title="CINE",TNT CINE FLOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -700,15 +678,10 @@ https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNzU1MzIyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVHlDU3BvcnQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYwYjMwNDk2MWFiYmEyYzQiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjU4MjUyMS01MDYiLCJjbGllbnRfaWQiOiI1NTU1MDAwMDAxMzE1NDItLTE0MDk1MjA0IiwiZGV2aWNlX2lkIjoiODg0NTM3MzYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMjAiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.b_sSajP-EiTzCWTCSFPnDcaAkAIdegEBonbM4QGNbBqLWpfV7NKcQ-eNIKhOeg2x8P0VbLimXzUvEuJVyJ9k6Q==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
-#EXTINF:-1 tvg-name="FOX SPORTS" group-title="DEPORTES",FOX SPORTS FLOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvYzNlZHMvRm94U3BvcnRzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJzZXNzaW9uX2lkIjoiODg0NTM3MzYtMTc3MjU4NjY2MS0zNjUiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJjaSI6IkFSLUQiLCJpYXQiOjE3NzI1ODY2NjEsImV4cCI6MTc3MjU4NjcyMX0.gmijgBHBNJKqYRI9XCaMNHPNCJkhZWlF-Ql0oSjyWz1AY3nS9Y687uUPfWtCcbSCddsb_hTzbHA7z_RpUwqZpA
-
-
-
+#EXTINF:-1 tvg-name="TN FLOW" tvg-logo="https://i.ibb.co/NLWRMrb/todo-noticias.png" group-title="TV ARGENTINA", TN Tendencias
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd
 
 
 
