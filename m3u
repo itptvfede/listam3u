@@ -3,12 +3,13 @@
 #EXTINF:-1,SIMPSONP 24/7 
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
 
+
 #EXTINF:-1 group-title="TEST",ESPN CLEARKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-https://qn-01282-slo-1-04-1---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODQwNTU3Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRVNQTjJIRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMTA3NGNjMTA4YmFhNTQ2NiIsInNlc3Npb25faWQiOiI4ODQ1MzczNi0xNzcyNjY3NzU3LTQ3MSIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.Cwcikn4B56RjosOMMhOoFCu659OtTx_jof2E3XJ9amOOgC1mJ4esG5Fx_QqjpqG9YcAOCFFBaTpFLCMxHwsEaQ==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+https://qn-01282-slo-1-04-1---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODQxMzA5Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvRVNQTjJIRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNzk3MjM0NjJjZGIwMjgzZSIsInNlc3Npb25faWQiOiI4ODQ1MzczNi0xNzcyNjY4NDQ5LTExNSIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjgyIiwic291cmNlcyI6Wzg2XX0=.ttMGyzZNQoZakHtsSDzZOxlDKOJXqI9WzVxbiI-moNfGeSDciJn0SJ_PEzWy3lMtvXYdH0y2qpSYKE3jnksL1g==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
 #EXTINF:-1 group-title="TEST",ELTRECE CLEARKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
