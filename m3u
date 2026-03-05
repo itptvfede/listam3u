@@ -3,6 +3,16 @@
 #EXTINF:-1,SIMPSONP 24/7 
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
 
+#EXTINF:-1 group-title="TEST",TN CLEARKEY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+https://qn-01282-slo-1-07-1---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODQzNTMyIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyOGIwYzU0YmEzZmFlNTYwIiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI2NzA3NDktMTY2IiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjgyIiwic291cmNlcyI6Wzg2XX0=.48v5gpIbVc5iy14iYg_Tvdzyy7KI0xP0AxmUK28HqxXPuTFQwhresW3I0lPd4IMLoSxxTVpeDhrQr91vaDyQKw==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+
+
+
 
 
 #EXTINF:-1 group-title="TEST",TYC SPORTS CLEARKEY
