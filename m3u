@@ -3,6 +3,13 @@
 #EXTINF:-1,SIMPSONP 24/7 
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
 
+#EXTINF:-1 group-title="TEST",ESPN PREMIUM CLEARKEY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyODQyMjgwIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5ZGRjOGQ1NjQ4MmFjNjE2Iiwic2Vzc2lvbl9pZCI6Ijg4NDUzNzM2LTE3NzI2Njk0NzgtNjQ5IiwiY2xpZW50X2lkIjoiNTU1NTAwMDAwMTMxNTQyLS0xNDA5NTIwNCIsImRldmljZV9pZCI6Ijg4NDUzNzM2IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDg2LDg4XX0=.oiIfdOjcUkJE9KgPetox-8-57gBvhE0rAeSCPbvu0SOGl2Np7rmeWnl_8gHaJX7O7H1iYheHyz9DTQXDFmLRsQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
 #EXTINF:-1 group-title="TEST",TNT CINE CLEARKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10,8 +17,7 @@ http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.
 #KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
 https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNjc0NDY2Iiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZmY0YTIzMWQwNjFkYzZkZSIsInNlc3Npb25faWQiOiI4ODQ1MzczNi0xNzcyNTAxNjY1LTc1MyIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjU4Iiwic291cmNlcyI6Wzg1LDg2LDg4XX0=.wVSkY0OKkHOhFz8aoQTNpgyNRUCcaCwdtKMBNc0qoP5LrVQHksNcSN5VSMkXhB9HadjWTLJqgxybxJgBxw3Qwg==/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
-
-
+#EXTINF:-1 group-title="TEST",EL TRECE CLEARKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
