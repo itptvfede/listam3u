@@ -529,7 +529,7 @@ https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|ref
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
-https://mplus.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-020 tvg-id="CRONICATV" tvg-logo="https://i.ibb.co/bgBt1CvP/CR.png" group-title="NOTICIAS",
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
