@@ -8,17 +8,15 @@ http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 
-  (  LISTA NUEVA =)  )
-
+LISTA NUEVA 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZR55M04d/TN.jpg",TN NOTICIAS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 9; Android TV)&Referer=https://player.sensa.com.ar/&Origin=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
 
 
 
