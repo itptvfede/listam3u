@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.18.0 (Linux;Android TV)
-https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
