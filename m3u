@@ -1,6 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR55M04d/TN.jpg",SOLO PRUEBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR55M04d/TN.jpg",TNT SPORTS FLOW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
+https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzI2ODQzIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDUwZDUzZmI1ZTBjOGE3OCIsInNlc3Npb25faWQiOiI4ODQ1MzczNi0xNzczMTU0MDQ1LTM1MiIsImNsaWVudF9pZCI6IjU1NTUwMDAwMDEzMTU0Mi0tMTQwOTUyMDQiLCJkZXZpY2VfaWQiOiI4ODQ1MzczNiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIzMSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.qCRM-19eRaQr6IM2GN-UTUoVa-FTgXWqZwBTKqOHNpeKlDSpg_--qs3SNFBCMZfET0IkNRsC8cOvBthk8mmEvQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR55M04d/TN.jpg",ESPN PREMIUM FLOW
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key= 4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
