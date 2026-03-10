@@ -51,7 +51,7 @@ https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-6 tvg-logo="https://i.ibb.co/mdn8dHN/CANAL-26.png",CANAL 26
+#EXTINF:-6 tvg-logo="https://i.ibb.co/05C6nNL/canal-26.jpg",CANAL 26
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/
