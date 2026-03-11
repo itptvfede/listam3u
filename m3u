@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+https://smt-usr-edge05.sensa.com.ar/bpk-tv/Multivision/default/index.mpd?begin=20260311T215900
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://i.ibb.co/FbHbfHn6/EP.png" group-title="DEPORTES",ESPN PREMIUM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
