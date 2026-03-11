@@ -59,7 +59,6 @@ LISTA NUEVA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
 https://smt-usr-edge05.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 
-
 #EXTINF:-2 tvg-logo="https://i.ibb.co/Nnb5wtLm/Ar12.jpg",ARGENTINA 12
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
