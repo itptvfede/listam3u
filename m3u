@@ -6,10 +6,11 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/|User-Agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_key=7f34c9a70c836020cbc3273c427ff277:f8943d114e25151c8ae4f612351d5a5f
+#KODIPROP:inputstream.adaptive.license_key=8f9261beee045d06c325c380b9275e15:89976f64ccde3509e15e38c9196a529f
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar/
-https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
+https://smt-usr-edge05.sensa.com.ar/bpk-tv/Multivision/default/index.mpd?begin=20260311T215900|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 #EXTINF:-1,SIMPSONP 24/7  OP1
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
