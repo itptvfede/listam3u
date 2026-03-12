@@ -74,7 +74,7 @@ https://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd?|referer=https://p
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/|Origin=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV)
-https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://smtp.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-4 tvg-logo="https://i.ibb.co/k2rn7GBL/c5n.png",C5N
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
