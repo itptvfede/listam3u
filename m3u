@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HBO_Family.svg/512px-HBO_Family.svg.png",TN MOTICIAS
+http://45.170.40.11:8000/play/a050/index.m3u8?hls
+
+
 #EXTINF:-1,SIMPSONP 24/7  OP1
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
 
