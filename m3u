@@ -1,5 +1,16 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/sp39x0h3/SIMPSONS.jpg.",SIMPSONS 24/7
+http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
+
+#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/sp39x0h3/SIMPSONS.jpg.",SIMPSONS 24/7 OP2
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
+
+#EXTINF:-1 tvg-name="CANAL RETRO" tvg-logo="https://i.imgur.com/tu_logo.png",CANAL RETRO
+https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
+
+
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://i.ibb.co/n8wYy7jk/A24.jpg.",424
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
@@ -13,15 +24,13 @@ http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/7NXFdpMh/SIMPSONS.jpg",SIMPSONS
-http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
-
-#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/7NXFdpMh/SIMPSONS.jpg",SIMPSONS. OP2
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 
-#EXTINF:-1 tvg-name="CANAL RETRO" tvg-logo="https://i.imgur.com/tu_logo.png",CANAL RETRO
-https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
+
+
+
+
+
 
 
 
