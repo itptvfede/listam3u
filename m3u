@@ -7,7 +7,7 @@ https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 #EXTINF:-1 tvg-name="FIFA EVETOS" tvg-logo="https://i.ibb.co/xSq9LYBN/FIFA.png",FIFA  EVENTOS
 https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 
-#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/1f6FFx4F/TN.jpg",TN NOTICIAS
+#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/N6j6j2f8/TN.jpg",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
 
