@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://i.ibb.co/n8wYy7jk/A24.jpg.",424
+http://181.13.252.102:8000/play/a01o/index.m3u8?hls
+
 #EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/XxY3yd07/TN.png",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
@@ -21,12 +24,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 
 
-#EXTINF:-1 tvg-name="FIFA EVENTOS" tvg-logo="https://i.ibb.co/w51Tyfy/FIFA.jpg",FIFA  EVENTOS
-https://
 
-#EXTM3U
-#EXTINF:-1,A24 
-http://181.13.252.102:8000/play/a01o/index.m3u8?hls
+
 
 #EXTM3U
 #EXTINF:-1,C5N
