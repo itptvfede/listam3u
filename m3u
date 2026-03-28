@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/XxY3yd07/TN.png",TN NOTICIAS
+http://45.170.40.11:8000/play/a050/index.m3u8?hls
+
+
+
+
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/7NXFdpMh/SIMPSONS.jpg",SIMPSONS
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
@@ -24,8 +30,6 @@ http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/1NfNBhs/TN.jpg",TN NOTICIAS
-http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="TYC" tvg-logo="https://i.ibb.co/vCLPMZXq/TYC.png",TYC  
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
