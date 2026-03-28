@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/XxY3yd07/TN.png",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
+#EXTINF:-1 tvg-name="TYC" tvg-logo="https://i.ibb.co/bfsbmhq/TYC.png",TYC
+http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+
 
 
 
@@ -31,8 +34,7 @@ http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-name="TYC" tvg-logo="https://i.ibb.co/vCLPMZXq/TYC.png",TYC  
-http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+
 
 
 
