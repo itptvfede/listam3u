@@ -18,7 +18,7 @@ https://
 #EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/N6j6j2f8/TN.jpg",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="TYC" tvg-logo="https://i.ibb.co/N6j6j2f8/TN.jpg",TYC  
+#EXTINF:-1 tvg-name="TYC" tvg-logo="https://i.ibb.co/9HYk3g93/TYC.jpg",TYC  
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 
 
