@@ -12,13 +12,13 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 
 
-#EXTINF:-1 tvg-name="FIFA EVETOS" tvg-logo="https://i.ibb.co/w51Tyfy/FIFA.jpg",FIFA  EVENTOS
+#EXTINF:-1 tvg-name="FIFA EVENTOS" tvg-logo="https://i.ibb.co/w51Tyfy/FIFA.jpg",FIFA  EVENTOS
 https://
 
-#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/N6j6j2f8/TN.jpg",TN NOTICIAS
+#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/1NfNBhs/TN.jpg",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="TYC" tvg-logo="https://i.ibb.co/9HYk3g93/TYC.jpg",TYC  
+#EXTINF:-1 tvg-name="TYC" tvg-logo="https://i.ibb.co/0y630MFx/TYC.png",TYC  
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 
 
