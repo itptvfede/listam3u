@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://i.ibb.co/gYnKB9B/EVENTOS.png" group-title="🇦🇷 EVENTOS",Eventos ARG
+http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
+
+#EXTM3U
+#EXTINF:-1 tvg-name="ASTRA EVENTOS AR 2" tvg-logo="https://i.ibb.co/gYnKB9B/EVENTOS.png" group-title="🇦🇷 EVENTOS 2",Eventos 2 ARG
+http://181.13.252.102:8000/play/a078/index.m3u8
+
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/sp39x0h3/SIMPSONS.jpg.",SIMPSONS 24/7
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
@@ -9,15 +16,6 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 
 #EXTINF:-1 tvg-name="CANAL RETRO" tvg-logo="https://i.ibb.co/KxxT4NgQ/RETRO.jpg",CANAL RETRO
 https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
-
-
-#EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",Eventos ARG
-http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
-
-#EXTM3U
-#EXTINF:-1 tvg-name="ASTRA EVENTOS AR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS 2",Eventos 2 ARG
-http://181.13.252.102:8000/play/a078/index.m3u8
-
 
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://i.ibb.co/n8wYy7jk/A24.jpg.",424
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
