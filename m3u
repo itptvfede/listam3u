@@ -7,7 +7,7 @@ http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.
 #EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/sp39x0h3/SIMPSONS.jpg.",SIMPSONS 24/7 OP2
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
-#EXTINF:-1 tvg-name="CANAL RETRO" tvg-logo="https://i.imgur.com/tu_logo.png",CANAL RETRO
+#EXTINF:-1 tvg-name="CANAL RETRO" tvg-logo="https://i.ibb.co/KxxT4NgQ/RETRO.jpg",CANAL RETRO
 https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 
 
@@ -16,6 +16,9 @@ http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/XxY3yd07/TN.png",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="C5N" tvg-logo="https://i.ibb.co/rGndpyRt/C5N.png",C5N
+http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="TYC" tvg-logo="https://i.ibb.co/bfsbmhq/TYC.png",TYC
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
@@ -36,9 +39,7 @@ http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 
 
 
-#EXTM3U
-#EXTINF:-1,C5N
-http://181.13.252.102:8000/play/a01o/index.m3u8?hls
+
 
 
 
