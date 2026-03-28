@@ -1,15 +1,21 @@
 #EXTM3U
 
-
-
-#EXTINF:-1,EVENTO DIRECTV
-http://8.243.126.131:8000/play/a05a/index.m3u8?hls
-
-#EXTINF:-1,CANAL RETRO
+#EXTINF:-1 tvg-id="canalretro" tvg-name="CANAL RETRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo.svg/512px-Logo.svg.png" group-title="TV",CANAL RETRO
 https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 
-#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HBO_Family.svg/512px-HBO_Family.svg.png",TN MOTICIAS
+
+#EXTINF:-1 tvg-id="fifa eventos" tvg-name="FIFA EVENTOS" tvg-logo="https://i.ibb.co/wFrv3pTC/FIFA-EVENTOS.png" group-title="TV",CANAL RETRO
+http://8.243.126.131:8000/play/a05a/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="tn noticias" tvg-logo="https://i.ibb.co/hFxqW42t/TN.jpg",TN MOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
+
+
+
+
+
+
+
 
 
 #EXTINF:-1,SIMPSONP 24/7  OP1
