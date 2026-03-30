@@ -8,10 +8,10 @@ http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 http://181.13.252.102:8000/play/a078/index.m3u8
 
 
-#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/sp39x0h3/SIMPSONS.jpg.",SIMPSONS 24/7
+#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/TD43q2Zz/SIMPSONS.png.",SIMPSONS 24/7
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
 
-#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/sp39x0h3/SIMPSONS.jpg.",SIMPSONS 24/7 OP2
+#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/TD43q2Zz/SIMPSONS.png.",SIMPSONS 24/7 OP2
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 #EXTINF:-1 tvg-name="CANAL RETRO" tvg-logo="https://i.ibb.co/KxxT4NgQ/RETRO.jpg",CANAL RETRO
