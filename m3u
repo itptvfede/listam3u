@@ -2,16 +2,13 @@
 
 
 
-#EXTINF:-1 tvg-id="futbol123" group-title="Futbol",DEFENSA vs CHACO FOR EVER 2026-04-01 19:15 - 21:00
+#EXTINF:-1 tvg-id="futbol123" group-title="Futbol",DEFENSA vs CHACO FOR EVER 2026-04-01 19:20 - 21:05
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m3u8
 
 
 #EXTINF:-1 tvg-id="futbol123" group-title="Futbol",LANUS vs PLATENSE 2026-04-01 20:00 - 21:00
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 
-
-#EXTINF:-1 tvg-id="futbol123" group-title="Futbol",PRUEBA vs PRUEBA 2026-04-01 18:59 - 19:00
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
 #EXTINF:-1 tvg-id="futbol123" group-title="futbol",INSTITUTO vs ATLANTA 2026-04-01 21:15 - 23:00
 http://181.13.252.102:8000/play/a078/index.m3u8
