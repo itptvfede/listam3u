@@ -1,12 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="EVENTOS ARG 1" tvg-logo="https://i.ibb.co/Y75xYp1x/EVENTOS.png" group-title="🇦🇷 EVENTOS",Eventos ARG 1
+#EXTINF:-1 tvg-id="futbol123" group-title="Futbol",Argentina vs Brasil 2026-04-01 00:12 - 01:23
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 
-#EXTM3U
-#EXTINF:-1 tvg-name="EVENTOS AR 2" tvg-logo="https://i.ibb.co/Y75xYp1x/EVENTOS.png" group-title="🇦🇷 EVENTOS 2",Eventos 2 ARG
+#EXTINF:-1 tvg-id="basquet123" group-title="Deporte",NBA Lakers vs Warriors 2026-04-01 02:00 - 03:30
 http://181.13.252.102:8000/play/a078/index.m3u8
-
 
 
 
