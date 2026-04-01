@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="futbol123" group-title="Futbol",DEFENSA vs CHACO FOR EVER 2026-04-01 19:00 - 21:00
+#EXTINF:-1 tvg-id="futbol123" group-title="Futbol",DEFENSA vs CHACO FOR EVER 2026-04-01 19:00 - 19:55
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m3u8
 
 #EXTINF:-1 tvg-id="futbol123" group-title="Futbol",Argentina vs Brasil 2026-04-01 00:12 - 01:23
