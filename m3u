@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="futbol123" group-title="Futbol",GIMNASIA (mza) vs VELEZ  2026-04-03 15:00 - 16:55
+#EXTINF:-1 tvg-id="futbol123" group-title="Futbol",GIMNASIA (mza) vs VELEZ  2026-04-03 15:00 - 17:55
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="futbol123" group-title="Futbol",UNION vs RIESTRA 2026-04-03 17:15 - 18:55
