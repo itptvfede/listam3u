@@ -1,7 +1,9 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-id="futbol123" group-title="Futbol",ALDOSIVI vs ESTUDIANTES RC 2026-04-04 13:30 - 15:55
-http://campstvpro.com/live/miguelbaque/promotvbox2022/470488.m3u8
+http://138.121.114.91:8000/play/a086/index.m3u8
 
 
 #EXTINF:-1 tvg-id="futbol123" group-title="Futbol",INDEPENDIENTE vs RANCING CLUB 2026-04-04 17:30 - 19:55
