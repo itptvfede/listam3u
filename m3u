@@ -1,11 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="Futbol",2026-04-10 21:00 - 23:15 | BELGRANO CBA vs ALDOSIVI 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="LIGA ARG",2026-04-10 21:00 - 23:15 | BELGRANO CBA vs ALDOSIVI 
 http://
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="COPA ARG",2026-04-07 16:00 - 18:15 | ESTUDIANTES RC vs SAN MARTIN TUCUMAN
+http://
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="COPA ARG",2026-04-07 18:30 - 21:15 | VELEZ  vs DEPORTIVO ARMENIO 
+http://
 
 
 
