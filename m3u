@@ -1,24 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="LIGA ARG",2026-04-11 15:00 - 17:30 | deportivo riestra vs instituto
+http://
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="LIGA ARG",2026-04-10 15:30 -17:30 | independiente rivadavia vs argentinos junior
+http://
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="LIGA ARG",2026-04-10 19:30 - 20:15 | estudiantes de la plata  vs union de santa,fe 
+http://
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="LIGA ARG",2026-04-10 19:30 - 21:15 | boca junior  vs independiente de avellaneda
+http://
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="LIGA ARG",2026-04-10 21:00 - 23:30 | belgrano vs aldosivi
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="COPA LIBERTADORES",2026-04-09 19:00 -21:03 | ROSARIO CENTRAL vs INDEPENDIENTE DEL VALLE
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="COPA ARG",2026-04-07 18:30 - 21:15 | VELEZ  vs DEPORTIVO ARMENIO 
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLsFqSN1/file.png" group-title="LIGA ARG",2026-04-10 21:45 - 23:15 | estudiantes RC  vs barracas centrsl
+http://
 
 
 
