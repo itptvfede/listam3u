@@ -7,3 +7,7 @@ http://ruta-del-stream/match.m3u8
 #EXTINF:-2 tvg-name="Tigre vs Macara 16/04 19:00-21:45" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png"
 http://ruta-del-stream/match.m3u8
 
+
+#EXTINF:-3 tvg-name="Peñarol vs Platense 16/04 21:30-23:50" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png"
+http://ruta-del-stream/match.m3u8
+
