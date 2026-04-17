@@ -1,11 +1,9 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-name="
-Unión de Santa Fe vs 
-Newell's Old Boys 17/04 20:30-22:15" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png"
+#EXTINF:-1 tvg-name="Unión de Santa Fe vs Newell's Old Boys 17/04 20:30-22:15" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png",Unión de Santa Fe vs Newell's Old Boys 17/04 20:30
 http://
+
 
 #EXTINF:-2 tvg-name="Tigre vs Macara 16/04 19:00-21:12" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png"
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/531040.m3u8
