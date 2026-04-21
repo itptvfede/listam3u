@@ -3,11 +3,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Aldosivi vs Racing Club 21/04 13:30-17:00
+#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Aldosivi vs Racing Club 21/04 18:00-23:00
 https://servidor.com/stream1.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Boca vs River 21/04 20:00-22:00
-https://servidor.com/stream2.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Real Madrid vs Barca 21/04 10:00-12:00
-https://servidor.com/stream3.m3u8
