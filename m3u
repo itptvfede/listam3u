@@ -15,14 +15,13 @@ https://servidor.com/stream1.m3u8
 https://servidor.com/stream1.m3u8
 
 
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="4" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Racing Club vs Barracas Central 24/04 21:30-23:40
 https://servidor.com/stream1.m3u8
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="5" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Platense vs San Lorenzo 24/04 21:30-23:40
-https://servidor.com/stream1.m3u8
 
 
 
