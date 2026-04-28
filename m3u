@@ -11,7 +11,7 @@ http:/
 /
 
 #EXTM3U
-#EXTINF:-1 tvg-id="3" group-title="EVENTOS",PSG  vs Bayern Munich 28/04 15:23-19:15
+#EXTINF:-1 tvg-id="3" group-title="EVENTOS",PSG  vs Bayern Munich 28/04 15:23-18:09
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m3u8
 
 
