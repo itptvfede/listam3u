@@ -1,34 +1,9 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Deportivo Riestra vs Independiente 24/04 17:00-19:15
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/496062.m3u8
-
 
 #EXTM3U
-#EXTINF:-1 tvg-id="2" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Lanús vs Central Córdoba SdE 24/04 19:15-22:40
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/143.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Estudiantes RC vs Rosario Central 24/04 19:15-22:40
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/291.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="4" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Racing Club vs Barracas Central 24/04 21:30-23:40
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/291.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="5" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Platense vs San Lorenzo 24/04 21:30-23:40
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/496062.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="1" group-title="EVENTOS",Lanús vs Liga de Quito 28/04 19:00-21:15
+http://
 
 
 
