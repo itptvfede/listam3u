@@ -1,17 +1,19 @@
 #EXTM3U
 
-
 #EXTM3U
 #EXTINF:-1 tvg-id="1" group-title="EVENTOS",Lanús vs Liga de Quito 28/04 19:00-21:15
 http://
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="2" group-title="EVENTOS",San Lorenzo vs Santos 28/04 19:00-21:15
 http://
 
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="3" group-title="EVENTOS",PSG  vs Bayern Munich 28/04 15:23-19:15
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-id="4" group-title="EVENTOS",Cruzeiro  vs Boca Juniors 28/04 21:30-23:15
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.ts
+
+
