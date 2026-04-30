@@ -6,10 +6,8 @@ http://
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="2" group-title="EVENTOS",Independiente Rivadavia vs 
-Deportivo La Guaira 30/04 19:00-21:15
-http://
-
+#EXTINF:-1 tvg-id="2" group-title="EVENTOS",Independiente Rivadavia vs Deportivo La Guaira 30/04 19:00-21:15
+http://TU-LINK-AQUI.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="3" group-title="EVENTOS",PSG  vs Bayern Munich 28/04 15:23-18:09
