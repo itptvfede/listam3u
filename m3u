@@ -28,7 +28,10 @@ https://pr745.streamingtv339.com:443/dsports/tracks-v1a1/mono.m3u8?ip=190.124.15
 https://kz895.streamingtv339.com:443/espn2mx/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=7e9cf93e6da81ac03e0a1e6a5873ee1e7e5ecb4f-85-1777466508-1777412508
 
 
-
 #EXTM3U
 #EXTINF:-1 tvg-id="5" group-title="EVENTOS",Cruzeiro  vs Boca Juniors 28/04 21:30-23:45
 https://pr745.streamingtv339.com:443/fox1ar/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=827a580e7c9001356dcae97f1489718de07eff52-27-1777468135-1777414135
+
+#EXTM3U
+#EXTINF:-1 tvg-id="6" group-title="EVENTOS",Bragantino  vs River Plate 30/04 21:30-23:45
+https://bd2ih.envivoslatam.org:443/disney6/tracks-v1a1/mono.m3u8?ip=45.178.2.237&token=0e182ff2d6c6818a63595d6501e9667b6e26e2bc-12-1777640755-1777586755
