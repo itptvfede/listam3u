@@ -15,7 +15,8 @@ https://rci1w.envivoslatam.org:443/espn/tracks-v1a1/mono.m3u8?ip=45.178.2.237&to
 
 #EXTM3U
 #EXTINF:-1 tvg-id="4" group-title="EVENTOS",Bragantino  vs River Plate 30/04 21:30-23:45
-http://
+https://ng0pr.envivoslatam.org:443/espn5/tracks-v1a1/mono.m3u8?ip=45.178.2.237&token=36f24ad17dfccafd751336fabc61db8bd8bac79c-03-1777639081-1777585081
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="5" group-title="EVENTOS",San Lorenzo vs Santos 28/04 19:00-21:10
