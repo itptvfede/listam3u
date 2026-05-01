@@ -10,7 +10,7 @@ https://wf6kt.envivoslatam.org:443/disney2/tracks-v1a1/mono.m3u8?ip=45.178.2.237
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="3" group-title="EVENTOS",Tigre vs América de Cali 30/04 21:00-23:30
+#EXTINF:-1 tvg-id="3" group-title="EVENTOS",Tigre vs América de Cali 30/04 21:00-23:11 
 https://rci1w.envivoslatam.org:443/espn/tracks-v1a1/mono.m3u8?ip=45.178.2.237&token=53084694cb670841bdfae638a3186562460a71a9-a8-1777635866-1777581866
 
 #EXTM3U
