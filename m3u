@@ -1,8 +1,4 @@
-
 #EXTM3U
-
-
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1" group-title="EVENTOS",Barracas Central vs Banfield 02/05 14:00-16:15
@@ -21,10 +17,7 @@ https://miservidor.com/stream123.m3u8
 https://miservidor.com/stream123.m3u8
 
 
-
 #EXTM3U
-#EXTINF:-5 tvg-id="5" group-title="EVENTOS",
-Unión de Santa Fe vs Talleres de Córdoba 02/05 18:45-21:45
+#EXTINF:-1 tvg-id="union_talleres" tvg-name="Unión vs Talleres" group-title="EVENTOS",Unión de Santa Fe vs Talleres de Córdoba (02/05 18:45)
 https://miservidor.com/stream123.m3u8
-
 
