@@ -17,8 +17,10 @@ https://miservidor.com/stream123.m3u8
 #EXTINF:-4 tvg-id="4" group-title="EVENTOS",San Lorenzo vs Independiente 02/05 18:45-21:45
 https://miservidor.com/stream123.m3u8
 
+
 #EXTM3U
-#EXTINF:-5 tvg-id="5" group-title="EVENTOS",San Lorenzo vs Independiente 02/05 18:45-21:45
+#EXTINF:-5 tvg-id="5" group-title="EVENTOS",
+Unión de Santa Fe vs Talleres de Córdoba 02/05 18:45-21:45
 https://miservidor.com/stream123.m3u8
 
 
