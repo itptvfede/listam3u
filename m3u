@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="3" group-title="EVENTOS",Aldosivi vs Independiente Rivadavia 03/05 13:30-16:00
 https://c2nvdxq.fubohd.com/tycinternacional/mono.m3u8?token=a84bc06598a789e2aba7017804b306e43eac5ad6-f5-1777841103-1777823103
@@ -10,8 +8,9 @@ https://c2nvdxq.fubohd.com/tycinternacional/mono.m3u8?token=a84bc06598a789e2aba7
 #EXTINF:-1 tvg-id="3" group-title="EVENTOS",Rosario Central vs Tigre 03/05 16:00-18:30
 https://14c51.com
 
+
 #EXTM3U
-#EXTINF:-1 tvg-id="3" group-title="EVENTOS",
+#EXTINF:-1 tvg-id="4" group-title="EVENTOS",
 Racing Club vs Huracán 03/05 16:00-18:30
 https://14c51.com
 
