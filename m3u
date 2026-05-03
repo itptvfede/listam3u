@@ -1,9 +1,7 @@
 #EXTM3U
 
-
-
 #EXTM3U
-#EXTINF:-1 tvg-id="3" group-title="EVENTOS",Platense vs Estudiantes de La Plata 02/05 21:55-23:45
+#EXTINF:-1 tvg-id="3" group-title="EVENTOS",Platense vs Estudiantes de La Plata 02/05 21:55-23:19
 https://14c51.streameasthd.net:443/espnpremium/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=f7007ef72637d4f7d16fe6aa63b2f2ea7783861e-e2-1777813048-1777759048
 
 
