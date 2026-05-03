@@ -1,22 +1,9 @@
 #EXTM3U
 
+
 #EXTM3U
 #EXTINF:-1 tvg-id="3" group-title="EVENTOS",Platense vs Estudiantes de La Plata 02/05 21:55-23:19
-https://14c51.streameasthd.net:443/espnpremium/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=f7007ef72637d4f7d16fe6aa63b2f2ea7783861e-e2-1777813048-1777759048
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="1" group-title="EVENTOS",Barracas Central vs Banfield 02/05 14:00-16:15
-https://bg622.streamingtv339.com:443/tntar/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=b00750b761ff12abd1781f9e932045915faea096-6e-1777784235-1777730235
-
-#EXTM3U
-#EXTINF:-2 tvg-id="1" group-title="EVENTOS",Lanús vs Deportivo Riestra 02/05 14:30-16:15
-https://cgxheq.fubohd.com/espnpremium/mono.m3u8?token=54906d2b6ab2ce1843c1ffb89745ecd6a608f1a4-12-1777762409-1777744409
-
-#EXTM3U
-#EXTINF:-1 tvg-id="3" tvg-name="Unión vs Talleres" group-title="EVENTOS",Unión de Santa Fe vs Talleres de Córdoba 02/05 18:45-21:15
-https://dp744.streamingtv339.com:443/espnpremium/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=882b8f2648a8fa51cfc37461810baab50c431331-b8-1777803180-1777749180
-
+https://14c51.com
 
 
 
