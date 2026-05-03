@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="1" group-title="EVENTOS",Barracas Central vs Banfield 02/05 14:00-16:15
 https://bg622.streamingtv339.com:443/tntar/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=b00750b761ff12abd1781f9e932045915faea096-6e-1777784235-1777730235
@@ -12,9 +10,8 @@ https://cgxheq.fubohd.com/espnpremium/mono.m3u8?token=54906d2b6ab2ce1843c1ffb897
 
 
 #EXTM3U
-#EXTINF:-3 tvg-id="3" group-title="EVENTOS",Platense vs 
-Estudiantes de La Plata 02/05 21:55-23:45
-https://
+#EXTINF:-1 tvg-id="3" group-title="EVENTOS",Platense vs Estudiantes de La Plata 02/05 21:55-23:45
+https://TU-URL-DEL-STREAM.m3u8
 
 
 #EXTM3U
