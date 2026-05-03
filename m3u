@@ -4,11 +4,12 @@
 #EXTINF:-1 tvg-id="3" group-title="EVENTOS",Aldosivi vs Independiente Rivadavia 03/05 13:30-16:00
 https://14c51.com
 
+
+
+
 #EXTM3U
-#EXTINF:-1 tvg-id="rosario_vs_tigre" tvg-name="Rosario Central vs Tigre" tvg-logo="" group-title="EVENTOS",Rosario Central vs Tigre | 03/05 16:00
-https://TU-STREAM-AQUI.m3u8
-
-
+#EXTINF:-1 tvg-id="3" group-title="EVENTOS",Aldosivi vs Independiente Rivadavia 03/05 13:30-16:00
+https://14c51.com
 
 
 
