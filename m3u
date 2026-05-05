@@ -1,8 +1,9 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-id="2" group-title="EVENTOS",Arsenal vs Atlético de Madrid (05/05 16:00-18:30)
-http://8.243.126.131:8000/play/a053/index.m3u8?hls
+#EXTINF:-1 tvg-id="2" group-title="EVENTOS",
+Rosario Central vs Libertad (05/05 19:05-21:30)
+http://
 
 
 #EXTM3U
