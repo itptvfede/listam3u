@@ -1,8 +1,9 @@
 #EXTM3U
 
+
 #EXTM3U
-#EXTINF:-1 tvg-id="1" group-title="EVENTOS",Rosario Central vs Libertad (05/05 19:05-21:30)
-https://pr745.streamingtv339.com:443/fox2ar/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=0d7df666f7b9cd60f994b37418ba0f939c8e607c-ff-1778063669-1778009669
+#EXTINF:-1 tvg-id="1" group-title="EVENTOS",Rosario Central vs Libertad (05/05 21:15-23:30)
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1778112799~acl=%2f*~data=hdntl~hmac=52dac36d3fe0ae0e460e3af627a4b095ae882f497ed5642d259036c2be9ea32f/master-mtlf3.m3u8
 
 
 
