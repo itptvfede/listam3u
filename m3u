@@ -2,7 +2,7 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="1" group-title="EVENTOS",Bayern Munich vs psg (06/05 16:00-18:30)
+#EXTINF:-1 tvg-id="1" group-title="EVENTOS",Bayern Munich vs psg (06/05 16:00-18:09)
 http://181.13.252.102:8000/play/a05a/index.m3u8?hls
 
 
