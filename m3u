@@ -1,11 +1,7 @@
 #EXTM3U
 
 
-
 #EXTM3U
-#EXTINF:-1 tvg-id="1" group-title="EVENTOS",Rosario Central vs Libertad (05/05 21:15-23:30)
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1778113191~acl=%2f*~data=hdntl~hmac=bc5e810f18890fe23a5648ca4eb53e4dd55d079daef8759a5fd4dad04fa8fb08/master0.m3u8
-
-
-
+#EXTINF:-1 tvg-id="1" group-title="EVENTOS",Bayern Munich vs PSG (06/05 16:00-18:30)
+https://
 
