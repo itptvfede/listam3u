@@ -4,11 +4,9 @@
 #EXTINF:-1 tvg-id="1" group-title="EVENTOS",Bayern Munich vs psg (06/05 16:00-18:30)
 http://38.188.48.83:8000/play/a0ko/index.m3u8?hls
 
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="2" group-title="EVENTOS",Cusco FC vs Estudiantes de La Plata (06/05 21:30-23:40)
-https://
+http://45.5.149.220:8000/play/a03n/index.m3u8?hls
 
 
 #EXTM3U
