@@ -5,6 +5,9 @@
 http://181.13.252.102:8000/play/a07j/index.m3u8?hls
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="1" group-title="EVENTOS",Platense vs Peñarol (07/05 19:00-21:10)
+https://bg622.streamingtv339.com:443/fox1ar/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=8d8ae0823ace6b87066e9d94664065077e78cf11-42-1778237497-1778183497
 
 
 #EXTM3U
