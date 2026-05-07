@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTM3U
 #EXTINF:-1 tvg-id="1" group-title="EVENTOS",Bayern Munich vs psg (06/05 16:00-18:09)
 http://181.13.252.102:8000/play/a05a/index.m3u8?hls
@@ -13,11 +12,11 @@ http://45.5.149.220:8000/play/a03n/index.m3u8?hls
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="3" group-title="EVENTOS",Independiente Rivadavia vs Fluminense (06/05 21:30-22:27)
+#EXTINF:-1 tvg-id="3" group-title="EVENTOS",Independiente Rivadavia vs Fluminense (06/05 21:30-22:30)
 http://45.5.149.220:8000/play/a03n/index.m3u8?hls
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="4" group-title="EVENTOS",Independiente Rivadavia vs Fluminense (06/05 21:30-22:27)
+#EXTINF:-1 tvg-id="4" group-title="EVENTOS",Independiente Rivadavia vs Fluminense (06/05 21:30-22:30)
 http://181.13.252.102:8000/play/a05a/index.m3u8?hls
