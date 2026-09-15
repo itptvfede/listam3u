@@ -1,10 +1,9 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwxYqFnZ/chiflado-1.jpg" group-title="PELICULA",El profesor chiflado 1996
-http://simida.cjmpxylza.com/vod/E223AF6064C443F4BBC3FD68D3DE8A84_media.ts?dev_id=664537acdf92391cb1333d2479ee69a3&user_id=946241698&trans_id=o7sNUa4nAuHn_Qjmm879GOkG&expired=1789443851&app_id=com.android.msandroid&app_ver=49902&host=yuwc.swzablvpm.com&media_code=E223AF6064C443F4BBC3FD68D3DE8A84&auth_id=946241698_com.android.msandroid__0&client_ip=190.124.153.58&token=6422847a&sign2_method=sign_o3&instance=0&start_moment=1789429529475&sign2=847ae6214e8c8db2dd6f8b2f512b7ef3
-
-
+http://simida.cjmpxylza.com/vod/4E488B23A8D648A1AFEEDF9F6112FB48_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.33.212:14399%26app_id%3Dcom.android.msandroid%26trans_id%3DTd4VONp914z2_0eWaizHvwA1%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1789447443%26token%3Ddd798f079eff6821c8283da288753e40&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D4E488B23A8D648A1AFEEDF9F6112FB48%26expired%3D1789447443%26token%3D4e2fa9e8aa9a01373f0a0b1c2c5f60a1
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chXyZWzr/lluvia2.jpg" group-title="PELICULA",Lluvia de hamburguesas 2: La venganza de las sobras 2013
